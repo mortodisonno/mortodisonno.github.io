@@ -3,34 +3,40 @@ import Layout from '../../layouts/Layout.astro';
 
 const works = [
   {
-    title: 'Mountain Fest 2025',
-    subtitle: 'cava',
+    title: 'Mountain Side Fest 2025',
+    subtitle: 'TONES Teatro Natura, Val DOssola - projectionist, media server operator' ,
     url: 'https://www.youtube.com/watch?v=va8YrT0hFzk',
   },
   {
-    title: 'Uklanski',
+    title: 'Piotr Uklanski : Faux Amis',
+    subtitle: 'Pinacoteca Giovanni Agnelli Torino - animations' ,
     url: 'https://www.youtube.com/watch?v=URgPu0HE8z4',
   },
   {
     title: 'Il Trittico',
-    subtitle: 'Teatro Regio di Torino' ,
+    subtitle: 'Teatro Regio di Torino - projectionist, media server operator' ,
     url: 'https://youtu.be/Aq0IEbCS7sc',
   },
   {
     title: 'Le Villi',
+    subtitle: 'Teatro Regio di Torino - projectionist, media server operator' ,
     url: 'https://www.juanguillermonova.com/copia-de-mefistofele-1',
+  },
+  {
+    title: 'Basic Business Week',
+    subtitle: 'Basic Village Torino - LED walls, media server operator ' ,
+    url: 'media.basicpress.com/media/media/192/192630_001.JPG',
   },
 ];
 ---
 
-<Layout title="Portfolio — mortodisonno">
+<Layout title="portfolio — mortodisonno">
   <section>
-    <h1>Portfolio</h1>
+    <h1>portfolio</h1>
     <p class="muted">live video tech/projectionist/media server op.</p>
   </section>
 
   <section>
-    <h2>Lavori</h2>
     {works.map((work) => (
       <div class="work">
         <a href={work.url} target="_blank" rel="noopener">{work.title}</a>
