@@ -7,43 +7,98 @@ const BASE = 'https://server-latitudee6500.tailf97aec.ts.net/musica';
 
 <Layout title="Musica — mortodisonno">
   <section>
-    <h1>musica</h1>
-    <p class="muted">sonno. è il nome che mi sono dato quando faccio la musica da solo, e ho cominciato a pubblicare musica sotto questo nome nel 2014, e per il primo paio d'anni mi sono divertito per la maggior parte del tempo con una chitarra acustica, qualche pedale e la scemenza dei miei vent'anni.
-    nel dicembre del 2016, con Le Troisième Choix, decido di virare verso la musica elettronica, avendo iniziato a usare il computer come mezzo principale per costruire la musica, producendo i primi beats per COAGULA e GELOGELIDO.
-    l'evoluzione continua nel 2017 con Hypnos, deviando sempre di più verso territori e fumosi ambienti decisamente techno-influenced che avrebbero preparato la via per l'approccio sempre più libero, DAW-less e improvvisativo, culminato in Aphairesis (2019).
-    con l'arrivo della nuova decade, sono tornato a scrivere musica con i computer producendo per intero Teratoma per GELOGELIDO, per poi lavorare a Villain con SALEM e SHANTI DEEP, e concludere con Disclosure or Devotion / Supersonic Eye insieme a NXPTNE.
-    durante lo sviluppo di queste collaborazioni, trasferendomi a torino nel tardo 2020, inizio a lavorare a quello che avrebbe preso forma nel 2023 come Supervoids — un album di pop oscuro e digitale, esplorando temi di astrofisica e profonda introspezione.
-    tornando dal viaggio nel cosmo di SUPERVOIDS, a fine 2024, inizia un nuovo ciclo con i SOVN EP, introducendo un nuovo approccio che mescola la musica elettronica con il black metal, dove la musica esplora questi due elementi in una maniera diversa in ogni release.
-    ne dio//ne stato//ne algoritmo//ne patriarcato</p>
+    <h1>Musica</h1>
+    <p class="muted">sonno. — discografia</p>
   </section>
 
-  {albums.map((album) => (
-    <section class="album">
-      <h2>{album.title}</h2>
-      {album.note && <p class="muted">{album.note}</p>}
-      {album.tracks.map((track, i) => (
-        <div class="track">
-          <span class="track-number">{String(i + 1).padStart(2, '0')}</span>
-          <span class="track-title">{track.title}</span>
-          <audio controls preload="metadata" src={`${BASE}/${album.dir}/${track.file}`}></audio>
-        </div>
-      ))}
-    </section>
-  ))}
+  <section class="discography">
+    {albums.map((album, i) => (
+      <details class="album" open={i === 0}>
+        <summary>
+          <span class="album-title">{album.title}</span>
+          <span class="album-meta">{album.note} · {album.tracks.length} tracce</span>
+        </summary>
+        {album.tracks.map((track, j) => (
+          <div class="track">
+            <span class="n">{String(j + 1).padStart(2, '0')}</span>
+            <span class="title">{track.title}</span>
+            <audio controls preload="none" src={`${BASE}/${album.dir}/${track.file}`}></audio>
+          </div>
+        ))}
+      </details>
+    ))}
+  </section>
 </Layout>
 
 <style>
   .muted { color: var(--muted); }
-  .album { margin: 2.5rem 0; }
+
+  .discography { max-width: 42rem; }
+
+  details.album {
+    border: 1px solid var(--border);
+    margin-bottom: 0.4rem;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.02);
+  }
+
+  summary {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.55rem 0.9rem;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+  }
+  summary::-webkit-details-marker { display: none; }
+
+  summary::before {
+    content: '+';
+    color: var(--cyan);
+    font-family: monospace;
+    margin-right: 0.6rem;
+    transition: transform 0.15s ease;
+  }
+  details[open] summary::before { content: '−'; }
+
+  .album-title { font-size: 0.95rem; }
+  .album-meta {
+    font-size: 0.75rem;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
   .track {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
-    gap: 1rem;
-    padding: 0.75rem 0;
-    border-bottom: 1px solid var(--border);
+    gap: 0.7rem;
+    padding: 0.3rem 0.9rem 0.3rem 2.2rem;
+    border-top: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
   }
-  .track-number { color: var(--muted); font-variant-numeric: tabular-nums; }
-  .track-title { flex: 1 1 100%; }
-  .track audio { width: 100%; }
+  .track:hover .n { color: var(--cyan); }
+
+  .n {
+    font-family: monospace;
+    font-size: 0.75rem;
+    color: var(--muted);
+    min-width: 1.4rem;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .title {
+    flex: 1;
+    font-size: 0.85rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .track audio { height: 1.8rem; width: 13rem; }
+
+  @media (max-width: 640px) {
+    .track { flex-wrap: wrap; }
+    .track audio { width: 100%; order: 3; }
+  }
 </style>
