@@ -1,0 +1,49 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const works = [
+  {
+    title: 'Mountain Fest 2025',
+    subtitle: 'cava',
+    url: 'https://www.youtube.com/watch?v=va8YrT0hFzk',
+  },
+  {
+    title: 'Uklanski',
+    url: 'https://www.youtube.com/watch?v=URgPu0HE8z4',
+  },
+  {
+    title: 'Il Trittico',
+    subtitle: 'Teatro Regio di Torino' ,
+    url: 'https://youtu.be/Aq0IEbCS7sc',
+  },
+  {
+    title: 'Le Villi',
+    url: 'https://www.juanguillermonova.com/copia-de-mefistofele-1',
+  },
+];
+---
+
+<Layout title="Portfolio — mortodisonno">
+  <section>
+    <h1>Portfolio</h1>
+    <p class="muted">live video tech/projectionist/media server op.</p>
+  </section>
+
+  <section>
+    <h2>Lavori</h2>
+    {works.map((work) => (
+      <div class="work">
+        <a href={work.url} target="_blank" rel="noopener">{work.title}</a>
+        {work.subtitle && <span class="muted"> — {work.subtitle}</span>}
+      </div>
+    ))}
+  </section>
+</Layout>
+
+<style>
+  .muted { color: var(--muted); }
+  .work {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+</style>

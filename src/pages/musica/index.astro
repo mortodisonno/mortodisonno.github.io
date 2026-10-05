@@ -1,0 +1,51 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const BASE = 'https://server-latitudee6500.tailf97aec.ts.net/musica';
+
+const tracks = [
+  { title: 'Slowdowns', src: `${BASE}/01-slowdowns.mp3` },
+  { title: 'Never Far Apart Again, Promise?', src: `${BASE}/02-never-far-apart-again-promise.mp3` },
+  { title: 'Veritas Sub Angue Latet', src: `${BASE}/03-veritas-sub-angue-latet.mp3` },
+  { title: 'The Sky Would Be Too Narrow for Me, to Contain Me Within It', src: `${BASE}/04-the-sky-would-be-too-narrow-for-me.mp3` },
+  { title: 'Hul Gil', src: `${BASE}/05-hul-gil.mp3` },
+  { title: 'Le Pèse-Nerfs', src: `${BASE}/06-le-pese-nerfs.mp3` },
+  { title: '...and I Bore Thy Divine Bones to Shatter Upon the Shivered Plains of Heaven', src: `${BASE}/07-and-i-bore-thy-divine-bones.mp3` },
+  { title: 'The Conquering Worm', src: `${BASE}/08-the-conquering-worm.mp3` },
+  { title: "So Spake Th' Apostate Angel", src: `${BASE}/09-so-spake-th-apostate-angel.mp3` },
+  { title: 'Behind the Wheel (Depeche Mode Cover)', src: `${BASE}/10-behind-the-wheel-depeche-mode-cover.mp3` },
+];
+---
+
+<Layout title="Musica — mortodisonno">
+  <section>
+    <h1>sonno. — Vendt Tilbake Til Sovn</h1>
+    <p class="muted">søvn, 2025</p>
+  </section>
+
+  <section>
+    <h2>Tracce</h2>
+    {tracks.map((track, i) => (
+      <div class="track">
+        <span class="track-number">{String(i + 1).padStart(2, '0')}</span>
+        <span class="track-title">{track.title}</span>
+        <audio controls preload="metadata" src={track.src}></audio>
+      </div>
+    ))}
+  </section>
+</Layout>
+
+<style>
+  .muted { color: var(--muted); }
+  .track {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .track-number { color: var(--muted); font-variant-numeric: tabular-nums; }
+  .track-title { flex: 1 1 100%; }
+  .track audio { width: 100%; }
+</style>
