@@ -5,7 +5,7 @@ categories:
   - "tredischi"
 ---
 
-**siamo nel 2022 mi girano i coglioni, è pieno inverno, e il corpo di alekos decide che è un buon momento per far uscire definitivamente tutti e 4 i denti del giudizio**.
+**siamo nel 2022, è pieno inverno, e il corpo di alekos decide che è un buon momento per far uscire definitivamente tutti e 4 i denti del giudizio**.
 
 **non ho bei ricordi di quel periodo, ma sicuramente sono stato chiuso in casa ad ascoltare tantissima musica (a volume bassissimo, per carità lol) e, in mezzo ai fumi degli antidolorifici e delle zuppette casco malamente su quella che sarebbe stata una delle mie più grandi storie d'amore degli ultimi anni:** **_lamp of murmuur_****.**
 
