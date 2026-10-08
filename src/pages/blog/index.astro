@@ -7,19 +7,54 @@ const posts = (await getCollection('blog'))
 ---
 
 <Layout title="Blog — mortodisonno">
-  <h1>blog</h1>
-  <ul>
-    {posts.map((post) => (
-      <li>
-        <a href={`/blog/${post.id}/`}>{post.data.title}</a>
-        {' — '}
-        <time datetime={post.data.date.toISOString().slice(0, 10)}>
-          {post.data.date.toLocaleDateString('it-IT')}
-        </time>
-        {post.data.categories.length > 0 && (
-          <span class="categorie"> [{post.data.categories.join(', ')}]</span>
-        )}
-      </li>
-    ))}
-  </ul>
+  <section class="intro">
+    <h1>blog</h1>
+    <p class="tagline">scrivo di musica e altre belinate.</p>
+  </section>
+
+  <section class="posts-list">
+    <ul>
+      {posts.map((post) => (
+        <li>
+          <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+          {' — '}
+          <time datetime={post.data.date.toISOString().slice(0, 10)}>
+            {post.data.date.toLocaleDateString('it-IT')}
+          </time>
+          {post.data.categories.length > 0 && (
+            <span class="categorie"> [{post.data.categories.join(', ')}]</span>
+          )}
+        </li>
+      ))}
+    </ul>
+  </section>
 </Layout>
+
+<style>
+  .intro {
+    max-width: 42rem;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+  .tagline {
+    color: var(--muted);
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+  }
+
+  .posts-list {
+    max-width: 42rem;
+    margin: 0 auto;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  a { color: var(--primary); }
+  .categorie { color: var(--muted); font-size: 0.85rem; }
+</style>

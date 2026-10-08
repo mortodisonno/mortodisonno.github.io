@@ -1,10 +1,14 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { getEntry, render } from 'astro:content';
+
+const intro = await getEntry('pages', 'portfolio');
+const { Content } = await render(intro);
 
 const works = [
   {
     title: 'Clock DVA: Mountain Side Fest 2025',
-    subtitle: 'TONES Teatro Natura, Val D Ossola - proiezionista, operatore media server' ,
+    subtitle: 'TONES Teatro Natura, Val D Ossola - proiezionista' ,
     url: 'https://www.youtube.com/watch?v=va8YrT0hFzk',
   },
   {
@@ -22,11 +26,11 @@ const works = [
     subtitle: 'Teatro Regio di Torino - proiezionista, operatore media server',
     url: 'https://www.juanguillermonova.com/copia-de-mefistofele-1',
   },
-    {
+  {
     title: 'Subsonica I CIELI SU TORINO 96-26',
     subtitle: 'OGR Officine Grandi Riparazioni Torino - montaggio LED walls',
     url: 'https://youtu.be/2xye_8RB7Aw?si=3fYi82TxRaj5mstO',
-   },
+  },
   {
     title: 'Die Zauberflote',
     subtitle: 'Teatro Regio di Torino - proiezionista, operatore media server',
@@ -35,7 +39,7 @@ const works = [
   {
     title: 'Basic Business Week',
     subtitle: 'Basic Village Torino - LED walls, operatore media server',
-    url: 'media.basicpress.com/media/media/192/192630_001.JPG',
+    url: 'https://media.basicpress.com/media/media/192/192630_001.JPG',
   },
   {
     title: 'Nomadi Tour',
@@ -46,14 +50,13 @@ const works = [
 ---
 
 <Layout title="portfolio — mortodisonno">
-  <section>
+  <section class="intro">
     <h1>portfolio</h1>
-    <p class="muted">live video tech/proiezionista/media server op.  //
-
-    dopo anni di esperienza sui palchi come musicista, facchino e aiuto di palco, nel 2019 decido di intraprendere a tempo pieno la carriera di tecnico dello spettacolo freelance, spaziando in tutti i comparti fino a decidere, dopo il tempo necessario a raccogliere abbastanza esperienza, di perseguire il mio interesse nel mondo delle proiezioni e dei grandi schermi, trovando poi un'evoluzione naturale nel cominciare ad occuparmi di direzioni di segnale e posizioni di regia, specializzandomi nelle proiezioni complicate e all'uso dei media server.</p>
+    <p class="tagline">live video tech/proiezionista/media server op.</p>
+    <div class="prose"><Content /></div>
   </section>
 
-  <section>
+  <section class="works">
     {works.map((work) => (
       <div class="work">
         <a href={work.url} target="_blank" rel="noopener">{work.title}</a>
@@ -64,7 +67,24 @@ const works = [
 </Layout>
 
 <style>
+  .intro {
+    max-width: 42rem;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .tagline {
+    color: var(--muted);
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 1.5rem;
+  }
+  .intro p {
+    line-height: 1.7;
+    margin-bottom: 1.2rem;
+  }
+
   .muted { color: var(--muted); }
+  .works { max-width: 42rem; }
   .work {
     padding: 0.75rem 0;
     border-bottom: 1px solid var(--border);

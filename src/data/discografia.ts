@@ -5,15 +5,19 @@ export interface Track {
 
 export interface Album {
   title: string;
-  note?: string;      // anno, etichetta, quello che vuoi
-  dir: string;        // path relativo sotto /musica/ sul server
+  anno?: number;
+  etichetta?: string;
+  tipo?: string;
+  dir: string;
   tracks: Track[];
 }
 
 export const albums: Album[] = [
   {
-    title: 'sonno. — Αἰώνιον ἀνάπαυσιν δός αὐτοῖς, ὦ Δαίμονα / καὶ λάμψει αὐτοῖς σκότος αἰώνιον',
-    note: 'søvn V',
+    title: 'Αἰώνιον ἀνάπαυσιν δός αὐτοῖς, ὦ Δαίμονα / καὶ λάμψει αὐτοῖς σκότος αἰώνιον',
+    anno: 2026,
+    tipo: 'EP',
+    etichetta: 'søvn V',
     dir: 'sovn/sovn-v',
     tracks: [
       { file: '01-aionion-anapausin-dos-autois-o-daimona.mp3', title: 'Αἰώνιον ἀνάπαυσιν δός αὐτοῖς, ὦ Δαίμονα' },
@@ -21,10 +25,11 @@ export const albums: Album[] = [
     ],
   },
 
-
 {
-  title: 'sonno. — Vendt Tilbake Til Søvn [2025]',
-  note: 'søvn I to IV ',
+  title: 'vendt tilbake til søvn',
+  anno: 2025,
+  tipo: 'compilation',
+  etichetta: 'søvn EPs from I to IV',
   dir: 'sovn/vendt_tilbake_til_sovn',
   tracks: [
     { file: '01-slowdowns.mp3', title: 'slowdowns' },
@@ -40,9 +45,28 @@ export const albums: Album[] = [
   ],
 },
 
+{
+  title: 'SUPERVOIDS',
+  anno: 2023,
+  tipo: 'album',
+  etichetta: 'musica orizzontale',
+  dir: 'supervoids',
+  tracks: [
+    { file: '01-ho-sonno-e-dormo-in-un-supervuoto-ft-cicvta-x-iomento.mp3', title: '(ho sonno e) dormo in un supervuoto ft. cicvta x iomento' },
+    { file: '02-megaparsec.mp3', title: 'megaparsec' },
+    { file: '03-dimenticare.mp3', title: 'dimenticare' },
+    { file: '04-al-culmine-primo-vertice.mp3', title: 'al culmine (primo vertice)' },
+    { file: '05-effetto-sachs-wolfe.mp3', title: 'effetto sachs-wolfe' },
+    { file: '06-al-culmine-secondo-vertice.mp3', title: 'al culmine (secondo vertice)' },
+    { file: '07-supernova-ft-gelogelido.mp3', title: 'supernova ft. gelogelido' },
+    { file: '08-non-e-un-sogno-e-un-ricordo.mp3', title: '(non è un sogno) è un ricordo' },
+  ],
+},
 
 {
-  title: 'sonno. — Remixes / Reworks 14-19 [2020]',
+  title: 'remixes / reworks 14-19',
+  anno: 2020,
+  tipo: 'compilation',
   dir: 'remixes-reworks-14-19',
   tracks: [
     { file: 'albicocche-uragano.mp3', title: 'albicocche (uragano)' },
@@ -58,7 +82,9 @@ export const albums: Album[] = [
 },
 
 {
-  title: 'sonno. — Ὕπνος (hypnos) [2017]',
+  title: 'Ὕπnos (hypnos)',
+  anno: 2017,
+  tipo: 'album',
   dir: 'hypnos',
   tracks: [
     { file: '01-pathos.mp3', title: 'Πάθος (pathos)' },
@@ -71,7 +97,9 @@ export const albums: Album[] = [
 },
 
 {
-  title: 'sonno. — Le Troixiéme Choix [2016]',
+  title: 'le troisiéme choix',
+  anno: 2016,
+  etichetta: 'twenty wax records',
   dir: 'le-troixieme-choix',
   tracks: [
     { file: '01-s-cioran-ouverture.mp3', title: 's. cioran, ouverture' },
@@ -86,27 +114,34 @@ export const albums: Album[] = [
 },
 
 {
-  title: 'sonno. — s. cioran [2016]',
+  title: 's. cioran',
+  anno: 2016,
+  tipo: 'EP',
   dir: 's-cioran',
   tracks: [
     { file: '01-s-cioran.mp3', title: 's. cioran' },
     { file: '02-apoptosi.mp3', title: 'apoptosi' },
   ],
 },
-  {
-    title: 'sonno. — apoptosi EP [2015]',
-    dir: 'apoptosi-ep',
-    tracks: [
-      { file: '01-canzone-opaca-dove-non-pesa-l-aria.mp3', title: "canzone opaca (dove non pesa l'aria) w. luca mele" },
-      { file: '02-inchiostro-blues.mp3', title: 'inchiostro blues' },
-      { file: '03-naufraghi.mp3', title: 'naufraghi' },
-      { file: '04-capo-verde.mp3', title: 'capo verde' },
-      { file: '05-anna-mi-ha-insegnato-come-nascondersi.mp3', title: 'anna mi ha insegnato come nascondersi' },
-    ],
-  },
 
 {
-  title: 'sonno. — capo verde [2015]',
+  title: 'apoptosi EP',
+  anno: 2015,
+  tipo: 'EP',
+  dir: 'apoptosi-ep',
+  tracks: [
+    { file: '01-canzone-opaca-dove-non-pesa-l-aria.mp3', title: "canzone opaca (dove non pesa l'aria) w. luca mele" },
+    { file: '02-inchiostro-blues.mp3', title: 'inchiostro blues' },
+    { file: '03-naufraghi.mp3', title: 'naufraghi' },
+    { file: '04-capo-verde.mp3', title: 'capo verde' },
+    { file: '05-anna-mi-ha-insegnato-come-nascondersi.mp3', title: 'anna mi ha insegnato come nascondersi' },
+  ],
+},
+
+{
+  title: 'capo verde',
+  anno: 2015,
+  tipo: 'EP',
   dir: 'capo-verde',
   tracks: [
     { file: '01-capo-verde.mp3', title: 'capo verde' },
@@ -114,21 +149,26 @@ export const albums: Album[] = [
   ],
 },
 
-  {
-    title: 'sonno. — come diventare buoni e tornare a casa [2015] (SPLIT w. a morning loss)',
-    dir: 'come-diventare-buoni-e-tornare-a-casa-split',
-    tracks: [
-      { file: '01-effe.mp3', title: 'effe' },
-      { file: '02-perduta-memoria.mp3', title: '(perduta) memoria' },
-      { file: '03-per-tornare-a-casa.mp3', title: 'per tornare a casa' },
-      { file: '04-come-diventare-buoni.mp3', title: 'a morning loss - come Diventare Buoni' },
-      { file: '05-eroine-letterarie.mp3', title: 'a morning loss - eroine letterarie' },
-      { file: '06-il-ripresino.mp3', title: 'a morning loss - il ripresino' },
-    ],
-  },
+{
+  title: 'come diventare buoni e tornare a casa',
+  anno: 2014,
+  etichetta: 'AMICONI BOOKING',
+  tipo: 'SPLIT w. a morning loss',
+  dir: 'come-diventare-buoni-e-tornare-a-casa-split',
+  tracks: [
+    { file: '01-effe.mp3', title: 'effe' },
+    { file: '02-perduta-memoria.mp3', title: '(perduta) memoria' },
+    { file: '03-per-tornare-a-casa.mp3', title: 'per tornare a casa' },
+    { file: '04-come-diventare-buoni.mp3', title: 'a morning loss - come Diventare Buoni' },
+    { file: '05-eroine-letterarie.mp3', title: 'a morning loss - eroine letterarie' },
+    { file: '06-il-ripresino.mp3', title: 'a morning loss - il ripresino' },
+  ],
+},
 
 {
-  title: 'sonno. — sonno ep [2014]',
+  title: 'sonno ep',
+  anno: 2014,
+  tipo: 'EP',
   dir: 'sonno-ep',
   tracks: [
     { file: '01-parigi.mp3', title: 'parigi' },
@@ -138,5 +178,4 @@ export const albums: Album[] = [
     { file: '05-nuvole.mp3', title: 'nuvole' },
   ],
 },
-
 ];
