@@ -50,7 +50,7 @@ export const albums: Album[] = [
   anno: 2023,
   tipo: 'album',
   etichetta: 'musica orizzontale',
-  dir: 'supervoids',
+  dir: 'SUPERVOIDS',
   tracks: [
     { file: '01-ho-sonno-e-dormo-in-un-supervuoto-ft-cicvta-x-iomento.mp3', title: '(ho sonno e) dormo in un supervuoto ft. cicvta x iomento' },
     { file: '02-megaparsec.mp3', title: 'megaparsec' },
