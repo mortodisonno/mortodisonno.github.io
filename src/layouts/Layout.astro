@@ -1,4 +1,6 @@
 ---
+import ContactLink from '../components/ContactLink.astro';
+
 interface Props {
   title?: string;
 }
@@ -30,7 +32,7 @@ const { title = 'mortodisonno' } = Astro.props;
       <slot />
     </main>
     <footer>
-      <small>mortodisonno &mdash; {new Date().getFullYear()}</small>
+      <small>mortodisonno &mdash; {new Date().getFullYear()} · <ContactLink /></small>
     </footer>
   </body>
 </html>

@@ -20,6 +20,9 @@ const BASE = 'https://server-latitudee6500.tailf97aec.ts.net/musica';
     {albums.map((album, i) => (
       <details class="album" open={i === 0}>
         <summary>
+          {album.cover && (
+            <img class="album-cover" src={`${BASE}/${album.cover}`} alt="" width="34" height="34" loading="lazy" />
+          )}
           <span class="album-title">{album.title}</span>
           <span class="album-meta">
             {[album.anno, album.etichetta, album.tipo].filter(Boolean).join(' · ')} · {album.tracks.length} tracce
@@ -36,6 +39,24 @@ const BASE = 'https://server-latitudee6500.tailf97aec.ts.net/musica';
     ))}
   </section>
 </Layout>
+
+<script>
+  // una sola traccia alla volta + autoplay della successiva
+  const players = [...document.querySelectorAll('audio')];
+
+  players.forEach((a) => {
+    // quando ne parte una, mette in pausa tutte le altre
+    a.addEventListener('play', () => {
+      players.forEach((other) => { if (other !== a) other.pause(); });
+    });
+
+    // quando una finisce, parte la successiva in ordine di pagina
+    a.addEventListener('ended', () => {
+      const i = players.indexOf(a);
+      if (players[i + 1]) players[i + 1].play();
+    });
+  });
+</script>
 
 <style>
   /* intro */
@@ -67,7 +88,7 @@ const BASE = 'https://server-latitudee6500.tailf97aec.ts.net/musica';
 
   summary {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-between;
     gap: 1rem;
     padding: 0.55rem 0.9rem;
@@ -86,11 +107,18 @@ const BASE = 'https://server-latitudee6500.tailf97aec.ts.net/musica';
   }
   details[open] summary::before { content: '−'; }
 
+  .album-cover {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
   .album-title { font-size: 0.95rem; }
   .album-meta {
     font-size: 0.75rem;
     color: var(--muted);
-    font-variant-numeric: tabular-nums;
+    font-variant-umeric: tabular-nums;
     white-space: nowrap;
   }
   /* su schermi stretti lascio andare a capo la meta invece di tagliarla */

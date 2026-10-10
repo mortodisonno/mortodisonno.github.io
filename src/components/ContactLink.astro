@@ -1,0 +1,13 @@
+---
+interface Props { text?: string }
+const { text = 'scrivimi' } = Astro.props;
+---
+<a id="contact-link" href="#">{text}</a>
+
+<script>
+  // email salvata invertita per non comparire nell'HTML sorgente
+  const r = 'moc.liamatut@onnosidotrom';
+  const addr = r.split('').reverse().join('');
+  const a = document.getElementById('contact-link');
+  a.href = 'mailto:' + addr;
+</script>

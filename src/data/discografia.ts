@@ -8,6 +8,7 @@ export interface Album {
   anno?: number;
   etichetta?: string;
   tipo?: string;
+  cover?: string;
   dir: string;
   tracks: Track[];
 }
@@ -18,6 +19,7 @@ export const albums: Album[] = [
     anno: 2026,
     tipo: 'EP',
     etichetta: 'søvn V',
+    cover: 'sovn/sovn-v/cover.jpg' ,
     dir: 'sovn/sovn-v',
     tracks: [
       { file: '01-aionion-anapausin-dos-autois-o-daimona.mp3', title: 'Αἰώνιον ἀνάπαυσιν δός αὐτοῖς, ὦ Δαίμονα' },
@@ -30,6 +32,7 @@ export const albums: Album[] = [
   anno: 2025,
   tipo: 'compilation',
   etichetta: 'søvn EPs from I to IV',
+  cover: 'sovn/vendt_tilbake_til_sovn/cover.jpg' ,
   dir: 'sovn/vendt_tilbake_til_sovn',
   tracks: [
     { file: '01-slowdowns.mp3', title: 'slowdowns' },
@@ -50,6 +53,7 @@ export const albums: Album[] = [
   anno: 2023,
   tipo: 'album',
   etichetta: 'musica orizzontale',
+  cover: 'supervoids/cover.jpg' ,
   dir: 'supervoids',
   tracks: [
     { file: '01-ho-sonno-e-dormo-in-un-supervuoto-ft-cicvta-x-iomento.mp3', title: '(ho sonno e) dormo in un supervuoto ft. cicvta x iomento' },
@@ -67,6 +71,7 @@ export const albums: Album[] = [
   title: 'remixes / reworks 14-19',
   anno: 2020,
   tipo: 'compilation',
+  cover: 'remixes-reworks-14-19/cover.jpg' ,
   dir: 'remixes-reworks-14-19',
   tracks: [
     { file: 'albicocche-uragano.mp3', title: 'albicocche (uragano)' },
@@ -85,6 +90,7 @@ export const albums: Album[] = [
   title: 'Ὕπnos (hypnos)',
   anno: 2017,
   tipo: 'album',
+  cover: 'hypnos/cover.png' ,
   dir: 'hypnos',
   tracks: [
     { file: '01-pathos.mp3', title: 'Πάθος (pathos)' },
@@ -100,6 +106,7 @@ export const albums: Album[] = [
   title: 'le troisiéme choix',
   anno: 2016,
   etichetta: 'twenty wax records',
+  cover: 'le-troixieme-choix/cover.jpg' ,
   dir: 'le-troixieme-choix',
   tracks: [
     { file: '01-s-cioran-ouverture.mp3', title: 's. cioran, ouverture' },
@@ -117,6 +124,7 @@ export const albums: Album[] = [
   title: 's. cioran',
   anno: 2016,
   tipo: 'EP',
+  cover: 's-cioran/cover.jpg' ,
   dir: 's-cioran',
   tracks: [
     { file: '01-s-cioran.mp3', title: 's. cioran' },
@@ -128,6 +136,7 @@ export const albums: Album[] = [
   title: 'apoptosi EP',
   anno: 2015,
   tipo: 'EP',
+  cover: 'apoptosi-ep/cover.jpg' ,
   dir: 'apoptosi-ep',
   tracks: [
     { file: '01-canzone-opaca-dove-non-pesa-l-aria.mp3', title: "canzone opaca (dove non pesa l'aria) w. luca mele" },
@@ -142,6 +151,7 @@ export const albums: Album[] = [
   title: 'capo verde',
   anno: 2015,
   tipo: 'EP',
+  cover: 'capo-verde/cover.jpg' ,
   dir: 'capo-verde',
   tracks: [
     { file: '01-capo-verde.mp3', title: 'capo verde' },
@@ -154,6 +164,7 @@ export const albums: Album[] = [
   anno: 2014,
   etichetta: 'AMICONI BOOKING',
   tipo: 'SPLIT w. a morning loss',
+  cover: 'come-diventare-buoni-e-tornare-a-casa-split/cover.jpg' ,
   dir: 'come-diventare-buoni-e-tornare-a-casa-split',
   tracks: [
     { file: '01-effe.mp3', title: 'effe' },
@@ -169,6 +180,7 @@ export const albums: Album[] = [
   title: 'sonno ep',
   anno: 2014,
   tipo: 'EP',
+  cover: 'sonno-ep/cover.jpg' ,
   dir: 'sonno-ep',
   tracks: [
     { file: '01-parigi.mp3', title: 'parigi' },
