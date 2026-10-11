@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Newsletter from '../components/Newsletter.astro';
 import { getEntry, render } from 'astro:content';
 
 const bio = await getEntry('pages', 'bio');
@@ -16,6 +17,8 @@ const { Content } = await render(bio);
       </div>
     </div>
   </section>
+
+  <Newsletter />
 </Layout>
 
 <style>
@@ -30,11 +33,11 @@ const { Content } = await render(bio);
   }
   .bio img {
     width: 100%;
-    max-width: 1280px
+    max-width: 1280px;
     height: auto;
     object-fit: contain;
     border-radius: 0%;
-    display: block
+    display: block;
     filter: grayscale(30%);
   }
   .bio h1 { margin: 0; }
@@ -46,4 +49,6 @@ const { Content } = await render(bio);
     font-size: 0.85rem;
   }
   .prose a { color: var(--primary); }
+
+  /* aggiungi qui anche lo stile newsletter se non l'hai ancora aggiunto */
 </style>

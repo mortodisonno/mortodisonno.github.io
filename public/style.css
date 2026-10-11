@@ -138,4 +138,43 @@ footer {
     gap: 1rem;
     justify-content: center;
   }
+  /* --- newsletter --- */
+  .newsletter {
+    border-top: 1px solid #313244; /* surface1 */
+    margin-top: 4rem;
+    padding-top: 2rem;
+    text-align: center;
+  }
+
+  .newsletter-title {
+    color: #cba6f7; /* mauve */
+    font-size: 0.85rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+  }
+
+  .newsletter-text {
+    max-width: 34rem;
+    margin: 0 auto 1.5rem;
+    color: #a6adc8; /* subtext1 */
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .newsletter-btn {
+    display: inline-block;
+    color: #cdd6f4; /* text */
+    background: transparent;
+    border: 1px solid #cba6f7; /* mauve */
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+  }
+
+  .newsletter-btn:hover {
+    background: #cba6f7; /* mauve */
+    color: #1e1e2e; /* base */
+  }
 }

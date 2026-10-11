@@ -1,0 +1,55 @@
+---
+const email = "mortodisonno@tutamail.com";
+const subject = "Iscrivimi alla newsletter";
+const body = "Ciao, vorrei iscrivermi alla newsletter di mortodisonno.";
+const href = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+---
+
+<section class="newsletter">
+  <p class="newsletter-title">newsletter</p>
+  <p class="newsletter-text">
+c'è anche una fantastica missiva automatica (grazie ru) se vuoi sapere quando succede qualcosa, se faccio uscire della musica, se scrivo qualcosa o che ne sò io quali altre diavolerie potrei inventarmi, se ti va, insomma:
+  </p>
+  <a class="newsletter-btn" href={href}>iscriviti</a>
+</section>
+
+<style>
+  .newsletter {
+    border-top: 1px solid var(--border);
+    margin-top: 4rem;
+    padding: 2rem 1rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .newsletter-title {
+    color: var(--accent);
+    font-size: 0.85rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+  }
+  .newsletter-text {
+    max-width: 34rem;
+    margin: 0 0 1.5rem;
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+  .newsletter-btn {
+    display: inline-block;
+    color: var(--accent);
+    background: transparent;
+    border: 1px solid var(--accent);
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+  }
+  .newsletter-btn:hover {
+    background: var(--accent);
+    color: var(--bg);
+    text-decoration: none;
+  }
+</style>
