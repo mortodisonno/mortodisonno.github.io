@@ -67,6 +67,33 @@ export const albums: Album[] = [
   ],
 },
 
+
+{
+  title: 'Contralba',
+  anno: 2022,
+  tipo: 'single w. GeloGelido, CIVUTA',
+  cover: 'contralba/cover.jpg',
+  dir: 'contralba',
+   tracks: [
+    { file: 'contralba.mp3', title: 'Contralba'},
+  ],
+},
+
+
+{
+  title: 'disclosure or devotion',
+  anno: 2022,
+  tipo: 'COLLAB EP w. NXPTNE',
+  etichetta: 'musica orizzontale',
+  cover: 'disclosure_or_devotion/cover.png',
+  dir: 'disclosure_or_devotion',
+   tracks: [
+    { file: 'disclosure_or_devotion.mp3', title: 'disclosure or devotion'},
+    { file: 'interlude.mp3' , title: 'interlude'}, 
+    { file: 'supersonic_eye.mp3' , title: 'supersonic eye'},
+  ],
+},
+
 {
   title: 'remixes / reworks 14-19',
   anno: 2020,
@@ -85,6 +112,34 @@ export const albums: Album[] = [
     { file: 'retrieval-of-nxptn-mars.mp3', title: 'retrieval of (nxptn mars)' },
   ],
 },
+
+{
+  title: 'sabbia/cielo',
+  anno: 2022,
+  tipo: 'double single',
+  etichetta: 'musica orizzontale',
+  cover: 'sabbiacielo/cover.jpg',
+  dir: 'sabbiacielo',
+   tracks: [
+    { file: 'cielo.mp3', title: 'cielo' },
+    { file: 'sabbia.mp3', title: 'sabbia' } ,
+  ],
+},
+
+
+{
+  title: 'aphairesis',
+  anno: 2019,
+  tipo: 'EP',
+  cover: 'aphairesis/cover.png',
+  dir: 'aphairesis', 
+   tracks: [
+    { file: 'A1.mp3', title: 'A1' },
+    { file: 'A2.mp3', title: 'A2' },
+    { file: 'B1.mp3', title: 'B1' },
+    { file: 'B2.mp3', title: 'B2' },
+  ],
+}, 
 
 {
   title: 'Ὕπnos (hypnos)',
