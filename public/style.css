@@ -74,7 +74,7 @@ article h1 {
 
 article time {
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 article h2,
@@ -176,5 +176,12 @@ footer {
   .newsletter-btn:hover {
     background: #cba6f7; /* mauve */
     color: #1e1e2e; /* base */
+  }
+
+  /* Contenuti renderizzati dai Markdown (.prose) */
+  .prose p {
+    font-size: 7rem;  /* 14.4px - riduci da default 16px */
+    line-height: 1.7;
+    margin-bottom: 1.2rem;
   }
 }
