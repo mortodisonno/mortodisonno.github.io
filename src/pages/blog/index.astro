@@ -19,7 +19,7 @@ const posts = (await getCollection('blog'))
           <a href={`/blog/${post.id}/`}>{post.data.title}</a>
           {' — '}
           <time datetime={post.data.date.toISOString().slice(0, 10)}>
-            {post.data.date.toLocaleDateString('it-IT')}
+          c{post.data.date.toLocaleDateString('it-IT')}
           </time>
           {post.data.categories.length > 0 && (
             <span class="categorie"> [{post.data.categories.join(', ')}]</span>
@@ -44,6 +44,7 @@ const posts = (await getCollection('blog'))
   }
 
   .posts-list {
+    color: var(--accent);
     max-width: 42rem;
     margin: 0 auto;
   }
