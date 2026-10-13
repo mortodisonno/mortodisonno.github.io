@@ -7,7 +7,7 @@ const bio = await getEntry('pages', 'bio');
 const { Content } = await render(bio);
 ---
 
-<Layout title="ciao, mi chiamo alekos">
+<Layout title="mortodisonno.">
   <section class="bio">
     <img src="/profile.jpg" alt="mortodisonno" width="400" height="150" />
     <div class="bio-text">
@@ -23,18 +23,19 @@ const { Content } = await render(bio);
 
 <style>
   .bio {
-    display: float;
+    max-width: 30rem;
+    margin: 0 auto;          /* <- QUESTO centra tutto */
+    text-align: center;
+    display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
-    gap: 0rem;
-    max-width: 30rem;
-    margin: 0;
+    gap: 1rem;
   }
 
   .bio img {
     width: 400px;
-    height: 150px;
+    max-width: 100%;         /* non sfonda sui cellulari */
+    height: auto;
     object-fit: cover;
     border-radius: 5%;
     filter: grayscale(30%);
@@ -42,16 +43,14 @@ const { Content } = await render(bio);
 
   .bio h1 {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 
   .bio-text {
     display: flex;
     flex-direction: column;
-    gap: 0rem;
+    gap: 1rem;
   }
 
-  .prose a {
-    color: var(--accent);
-  }
+  .prose a { color: var(--accent); }
 </style>
