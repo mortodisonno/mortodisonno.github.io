@@ -1,6 +1,6 @@
 ---
 title: "ah ma alla fine, quante volte ho detto RIFF? // parliamo di lamp of murmuur"
-date: 2024-12-09
+date: '2024-12-09'
 categories: 
   - "tredischi"
 ---

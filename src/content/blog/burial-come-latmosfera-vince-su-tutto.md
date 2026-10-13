@@ -1,6 +1,6 @@
 ---
 title: "BURIAL // è l’atmosfera a saper vincere su tutto"
-date: 2025-01-02
+date: '2025-01-02'
 categories: 
   - "mono"
 ---
