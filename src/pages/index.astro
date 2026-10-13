@@ -9,7 +9,7 @@ const { Content } = await render(bio);
 
 <Layout title="ciao, mi chiamo alekos">
   <section class="bio">
-    <img src="/profile.jpg" alt="Alekos" width="180" height="180" />
+    <img src="/profile.jpg" alt="mortodisonno" width="400" height="150" />
     <div class="bio-text">
       <h1>ciao, mi chiamo alekos</h1>
       <div class="prose">
@@ -23,17 +23,17 @@ const { Content } = await render(bio);
 
 <style>
   .bio {
-    display: flex;
+    display: float;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    gap: 1rem;
-    max-width: 34rem;
-    margin: 0 auto;
+    gap: 0rem;
+    max-width: 30rem;
+    margin: 0;
   }
 
   .bio img {
-    width: 700px;
+    width: 400px;
     height: 150px;
     object-fit: cover;
     border-radius: 5%;
@@ -42,13 +42,13 @@ const { Content } = await render(bio);
 
   .bio h1 {
     margin: 0;
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 
   .bio-text {
     display: flex;
     flex-direction: column;
-    gap: 0.8rem;
+    gap: 0rem;
   }
 
   .prose a {
