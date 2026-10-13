@@ -5,17 +5,17 @@ categories:
   - "turbe"
 ---
 
-ciao amicherie dell'internet, felicemente non scrivo da un pò, parte della grande rivoluzione che dobbiamo affrontare come esseri umani per tornare a essere decisamente un pò più umani passa proprio dal lasciar perdere la "continuità" e tornare a fare le cose che ci piacciono quando ci va di farle, e non una volta a settimana per stare dietro a non si sà quale algoritmo.
+*ciao amicherie dell'internet, felicemente non scrivo da un pò, parte della grande rivoluzione che dobbiamo affrontare come esseri umani per tornare a essere decisamente un pò più umani passa proprio dal lasciar perdere la "continuità" e tornare a fare le cose che ci piacciono quando ci va di farle, e non una volta a settimana per stare dietro a non si sà quale algoritmo.*
 
-oggi non ho dischi di cui parlarvi (o meglio, non è il momento, in realtà questa notte non ho dormito ascoltando a ripetizione quello che probabilmente sarà il disco dell'anno per me, ma ne parliamo a gennaio!) piuttosto di libri, ma arriviamo per gradi.
+*oggi non ho dischi di cui parlarvi (o meglio, non è il momento, in realtà questa notte non ho dormito ascoltando a ripetizione quello che probabilmente sarà il disco dell'anno per me, ma ne parliamo a gennaio!) piuttosto di libri, ma arriviamo per gradi.*
 
 la persona che vi scrive ha divorato, dai 5 ai 26 anni, qualsiasi pezzo di carta con sopra stampato qualcosa che gli si parasse davanti.  
-che fosse narrativa, saggistica, fumetti, liste della spesa abbandonate, non importa cosa fosse, ho sempre avuto il bisogno di assumere parole nella mia testa, e l'ho fatto con famelica assiduità per vent'anni della mia vita, fino a che silenziosamente un pezzo rettangolare di plastica e vetro e ferraglie varie non ha preso a calci la mia capacità di attenzione, era il 2013 e una persona che si è rivelata non essere proprio il migliore degli amici mi regalava, per il mio ventitreesimo compleanno, il mio primo smartphone.
+che fosse narrativa, saggistica, fumetti, liste della spesa abbandonate, non importa cosa fosse, ho sempre avuto il bisogno di assumere parole nella mia testa, e l'ho fatto con famelica assiduità per vent'anni della mia vita, fino a che silenziosamente un pezzo rettangolare di plastica e vetro e ferraglie varie non ha preso a calci la mia capacità di attenzione, era il 2013 e una persona che si è rivelata non essere proprio il migliore degli amici mi regalava, per il mio ventitreesimo compleanno, **il mio primo smartphone.**
 
 un oggetto che piano piano ha cambiato in molteplici maniere la vita di tutt\* noi, sopratutto prendendo la nostra capacità di assumere stimoli, gonfiandola nei modi e nei punti giusti per renderci tutti schiavi della risposta dopaminica e, non secondariamente, incapaci di mantenere l'attenzione su qualcosa per più dei 10, 30 o 60 secondi che tanto piacciono come forma ai vari amici di gugol tictoc feisbuc instagra eccetera.
 
 e voi mi direte, alekos perchè ci stai rifacendo tutto il pippone sui telefoni cattivi? sulle tecnocrazie imperanti?per darvi una buona notizia, amic\*:  
-sono tornato a leggere come prima.
+*sono tornato a leggere come prima.*
 
 dopo quasi due anni senza social networks  
 dopo quasi due anni di lettura costante di dove fosse la mia attenzione, quanto durasse, se fosse netta, a fuoco, o confusa, nebbiosa.  
@@ -47,4 +47,4 @@ il sollievo che mi ha fatto provare, in questo periodo, la ritrovata capacità d
 
 tutto questo per dire che, in maniera assolutamente saltuaria come per i dischi e per linux, forse inizieremo a parlare anche di libri su queste pagine virtuali.
 
-ciao amicherie, ci sentiamo quando ci sentiamo
+*ciao amicherie, ci sentiamo quando ci sentiamo*
