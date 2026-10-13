@@ -6,7 +6,7 @@ title: musica
 
 ho cominciato ( principalmente per giocare con giocattoli diversi da quelli che usavo già negli **URAGANO**, band dove, dal 2013, suono cose rumorose e senza dio ) come chitarra acustica con venature shoegaze incrostate di tutte le mie scemenze ventenni.
 
-nel 2015 comincio a costruire musica con il computer, che inizio a pubblicare nel 2016, passando per ambient, techno e scoprendo le macchine e l'improvvisazione DAW-less nel mirabolante duo **NEMURI NO HANA**, producendo varie self-release e collaborazioni come beatmaker per la mirabolante scena del west liguria.
+nel 2015 comincio a costruire musica con il computer, che inizio a pubblicare nel 2016, passando per ambient, techno e scoprendo le macchine e l'improvvisazione DAW-less nell'incredibile duo (a un certo punto anche trio) **NEMURI NO HANA**, producendo varie self-release e collaborazioni come beatmaker per la mirabolante scena del west liguria.
 
 nel 2023, dopo due anni di lavoro parallelo a numerose collaborazioni, fluttuando nello spazio e nella sintesi fm, esce **SUPERVOIDS**, in bilico tra la psicoanalisi e l'astrofisica.
 
