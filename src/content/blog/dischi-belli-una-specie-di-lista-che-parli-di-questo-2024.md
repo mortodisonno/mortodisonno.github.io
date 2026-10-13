@@ -1,6 +1,8 @@
 ---
 title: "DISCHI BELLI // una specie di lista che parli di questo 2024"
 date: 2025-01-15
+categories: 
+  - "lists"
 ---
 
 **possiamo dire, amicherie, che questo 2024 è stato un momento bello forte per la musica.  

@@ -1,12 +1,14 @@
 ---
 title: "DISCHI BELLI // una specie di lista che parli di questo 2025"
 date: 2025-12-19
+categories: 
+  - "lists"
 ---
 
-ciao a tuttamic\*  
+*ciao a tuttamic\*  
 quest'anno non ho parlato per niente di musica su queste finte pagine fatte di rete, ne ho anche ascoltata poca forse rispetto al solito, ma ho delle cose da dire su dei dischi usciti quest'anno, sicuramente  
 in fondo aggiungo anche un simpa screen del mio last fm di quest'anno, non include tante cose, è stato un anno molto diverso dal solito come ascolti, sono stato chiuso in molte comfort zone e ho affrontato meno roba nuova del solito forse ma bu, è un simpatico easter egg.  
-so this is the listone for this year, spero ci sia qualche buon input!
+so this is the listone for this year, spero ci sia qualche buon input!*
 
 come sempre fangule israele, gli algoritmi e il patriarcato  
 buon nachele e buon anno nuovo a tutt\* e che satana illumini il nostro cammino
