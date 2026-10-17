@@ -34,18 +34,18 @@ con un la minore e un mi minore
 parole dolcissime di abbandono, acquatiche e misteriose
 e sull'invito del signor gira ad affogare con lui, ripartono, gentili come solo ciò che consola qualcosa di orribile, chitarre, bassi, batterie e tastiere
 
-*now we wander*
-*under the water*
-*where the jewels*
-*drift by us forever*
-*where our minds combine*
-*and silence is laughter*
-*where waking*
-*is forever just sleeping*
-*where motion*
-*is swallowed by stillness*
-*where we're drowning*
-*while dreaming the tides*
+*now we wander//*
+*under the water//*
+*where the jewels//*
+*drift by us forever//*
+*where our minds combine//*
+*and silence is laughter//*
+*where waking//*
+*is forever just sleeping//*
+*where motion//*
+*is swallowed by stillness//*
+*where we're drowning//*
+*while dreaming the tides//*
 
 e noi ci lasciamo cullare dagli swans, chiedendoci dove siamo e chi siamo, ma con la distanza degli anni che ormai son passati, e che possiamo solo imparare a riguardare come fossero vecchie film, come fossimo in una vecchia casa senza internet e con videocassette e mangianastri.
 a trent'anni da *soundtracks for the blind* sembra banale dirlo, ma amic*, io me ne vado sempre in un mucchio quando penso che questi sono gli stessi di *public castration is a good idea*.
