@@ -4,12 +4,24 @@ import Layout from '../../layouts/Layout.astro';
 
 const posts = (await getCollection('blog'))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+// Estrae tutte le categorie uniche dai post
+const categories = [...new Set(posts.flatMap(post => post.data.categories))];
 ---
 
 <Layout title="Blog — mortodisonno">
   <section class="intro">
     <h1>blog</h1>
     <p class="tagline">scrivo di musica e altre belinate.</p>
+
+    {/* QUI: il menu categorie, subito sotto il tagline */}
+    {categories.length > 0 && (
+      <nav class="category-nav">
+        {categories.map((cat) => (
+          <a href={`/blog/categoria/${cat}/`}>{cat}</a>
+        ))}
+      </nav>
+    )}
   </section>
 
   <section class="posts-list">
@@ -19,7 +31,7 @@ const posts = (await getCollection('blog'))
           <a href={`/blog/${post.id}/`}>{post.data.title}</a>
           {' — '}
           <time datetime={post.data.date.toISOString().slice(0, 10)}>
-          {post.data.date.toLocaleDateString('it-IT')}
+            {post.data.date.toLocaleDateString('it-IT')}
           </time>
           {post.data.categories.length > 0 && (
             <span class="categorie"> [{post.data.categories.join(', ')}]</span>
@@ -43,8 +55,31 @@ const posts = (await getCollection('blog'))
     letter-spacing: 0.08em;
   }
 
-  .posts-list {
+  /* QUI: gli stili per il menu categorie */
+  .category-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+
+  .category-nav a {
+    font-size: 0.75rem;
+    color: var(--muted);
+    padding: 0.2rem 0.6rem;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+
+  .category-nav a:hover {
     color: var(--accent);
+    border-color: var(--accent);
+    text-decoration: none;
+  }
+
+  .posts-list {
     max-width: 42rem;
     margin: 0 auto;
   }
@@ -56,6 +91,6 @@ const posts = (await getCollection('blog'))
     padding: 0.75rem 0;
     border-bottom: 1px solid var(--border);
   }
-  a { color: var(--primary); }
+  a { color: var(--accent); }
   .categorie { color: var(--muted); font-size: 0.85rem; }
 </style>

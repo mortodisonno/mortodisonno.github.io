@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+// getStaticPaths gira in uno scope separato: qui dici ad Astro
+// quali URL generare in build, uno per categoria.
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const categories = [...new Set(posts.flatMap((p) => p.data.categories))];
+
+  return categories.map((category) => ({
+    params: { category },
+  }));
+}
+
+const { category } = Astro.params;
+
+// seconda lettura della collection: getCollection è un pattern
+// comune, non un problema pratico di performance in build
+const posts = (await getCollection('blog'))
+  .filter((p) => p.data.categories.includes(category))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<Layout title={`${category} — blog — mortodisonno`}>
+  <section class="intro">
+    <h1>{category}</h1>
+    <p class="tagline">
+      {posts.length} post · <a href="/blog/">← tutto il blog</a>
+    </p>
+  </section>
+
+  <section class="posts-list">
+    <ul>
+      {posts.map((post) => (
+        <li>
+          <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+          {' — '}
+          <time datetime={post.data.date.toISOString().slice(0, 10)}>
+            {post.data.date.toLocaleDateString('it-IT')}
+          </time>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Layout>
