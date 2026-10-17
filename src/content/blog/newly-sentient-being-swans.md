@@ -18,7 +18,7 @@ e resto, appunto, annichilito da questi strani cure dell'apocalisse, da queste c
 questo cantastorie maledetto col cappello da cowboy che sputa ridacchiando sul sogno americano mi dice qualcosa, la forma che da alle cose mi piace, e mi piace ancor di più quando mi rendo conto di non essere di fronte ad un musicista fortissimo, ma ad uno che sà di avere delle idee e che vuole esprimerle, maledettamente forte e al meglio possibile.
 da lì in poi è semplicemente stato un voracissimo innamoramento, e ho consumato ogni singola uscita e verrà un momento, amic, per parlare in qualche modo delle (almeno) 3 vite di questo organismo mutaforma, ma per parlare del disco di oggi ci ritroviamo a partire da un punto inusuale:
 
-*cominciamo dalla fine*
+*cominciamo dalla fine*  
 *la fine in un senso estremamente ampio*
 
 la fine perchè, al momento in cui scrivo, micheal gira ha 72 anni, è normale che una persona si faccia delle domande, e il nostro amico si esibisce in continui balletti con sorella morte in maniera praticamente continuativa da fine anni 70, che fosse per circoli autodistruttivi o per ciò che decideva di affrontare nella sua arte, è da tutta la vita che, bene o male, micheal parla, suona, pensa e respira morte, e piano piano ci stà arrivando.
