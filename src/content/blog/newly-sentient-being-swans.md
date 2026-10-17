@@ -86,5 +86,8 @@ ed è il tempo di riaprire gli occhi
 è stato un grande viaggio, credo di aver già detto sei volte oltre l'abbastanza ma voglio concludere con una riflessione:
 per quanto io sia un fan sfegatato degli swans, non credo che ogni persona sulla terra debba sentire ogni singolo disco registrato da michael gira da solo in cameretta rivenduto poi a dio sa quanti euri, per carità, non vi sto dicendo neanche di spendere i direi quasi metaforici 72 euro per il quadruplo vinile con dvd e parcheggio nel supermercato preferito di michael gira per un mese, ma questo disco è importante.
 non è il solito live, non è la solita pippa egoriferita del nostro ormai non più giovane eroe della new york dei migliori, questa è grande musica, suonata in maniera grande, con grandi suoni e grande contenuto, non ho mai dato dei voti ma se li avessi dati questo disco avrebbe il più alto mai dato.
-*loud swans are dead, e anche io non sto benissimo.*
+
+https://swans.bandcamp.com/album/newly-sentient-being
+
+*loud swans are dead, long live swans.*
 
