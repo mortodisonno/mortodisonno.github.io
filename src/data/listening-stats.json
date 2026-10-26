@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-26T15:57+01:00",
+  "generated_at": "2026-10-26T17:00+01:00",
   "totals": {
-    "plays": 3743,
-    "hours": 321.5,
-    "artists": 283
+    "plays": 3751,
+    "hours": 322.2,
+    "artists": 284
   },
   "top_tracks": [
     {
@@ -409,10 +409,58 @@
     },
     {
       "month": "2026-10",
-      "plays": 1003
+      "plays": 1011
     }
   ],
   "recent": [
+    {
+      "title": "Nonchalantes de beauté",
+      "artist": "Celeste",
+      "album": "Assassine(s)",
+      "played_at": "2026-10-26 16:51:23"
+    },
+    {
+      "title": "De tes yeux bleus perlés",
+      "artist": "Celeste",
+      "album": "Assassine(s)",
+      "played_at": "2026-10-26 16:45:54"
+    },
+    {
+      "title": "Des torrents de coups",
+      "artist": "Celeste",
+      "album": "Assassine(s)",
+      "played_at": "2026-10-26 16:40:42"
+    },
+    {
+      "title": "Under the Carpathian Yoke",
+      "artist": "Vlad Tepes",
+      "album": "March to the Black Holocaust",
+      "played_at": "2026-10-26 16:32:58"
+    },
+    {
+      "title": "Diabolical Reaps",
+      "artist": "Vlad Tepes",
+      "album": "March to the Black Holocaust",
+      "played_at": "2026-10-26 16:29:05"
+    },
+    {
+      "title": "Misery Fear & Storm Hunger",
+      "artist": "Vlad Tepes",
+      "album": "March to the Black Holocaust",
+      "played_at": "2026-10-26 16:25:14"
+    },
+    {
+      "title": "Dans nôtre chute",
+      "artist": "Vlad Tepes",
+      "album": "March to the Black Holocaust",
+      "played_at": "2026-10-26 16:22:53"
+    },
+    {
+      "title": "Drink the Poetry of the Celtic Disciple",
+      "artist": "Vlad Tepes",
+      "album": "March to the Black Holocaust",
+      "played_at": "2026-10-26 16:14:16"
+    },
     {
       "title": "Peace in Death",
       "artist": "The Blood Mountain Black Metal Choir",
@@ -544,54 +592,6 @@
       "artist": "Misotheist",
       "album": "De Pinte",
       "played_at": "2026-10-26 12:37:14"
-    },
-    {
-      "title": "Unanswered Thrice",
-      "artist": "Misotheist",
-      "album": "De Pinte",
-      "played_at": "2026-10-26 12:30:34"
-    },
-    {
-      "title": "Et in pulverem mortis deduxisti me.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-10-26 12:24:46"
-    },
-    {
-      "title": "Plus aucun membre ne sera rendu.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-10-26 11:51:59"
-    },
-    {
-      "title": "Il est trop tard pour rendre gloire. Ainsi la lumière sera changée en ombre de la mort.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-10-26 11:45:18"
-    },
-    {
-      "title": "Voilà l'homme qui ne te prenait pas comme Seigneur.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-10-26 11:39:52"
-    },
-    {
-      "title": "Une place parmi les morts.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-10-26 11:34:04"
-    },
-    {
-      "title": "Regarde tes cadavres car il ne te permettra pas qu'on les enterre.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-10-26 11:27:28"
-    },
-    {
-      "title": "La terre ne cessera de se consumer.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-10-26 11:21:04"
     }
   ]
 }
