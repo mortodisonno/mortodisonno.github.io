@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T17:00+01:00",
+  "generated_at": "2026-10-26T21:00+01:00",
   "totals": {
-    "plays": 3751,
-    "hours": 322.2,
+    "plays": 3757,
+    "hours": 322.7,
     "artists": 284
   },
   "top_tracks": [
@@ -236,7 +236,7 @@
     },
     {
       "artist": "Deafheaven",
-      "plays": 40
+      "plays": 41
     },
     {
       "artist": "Cult of Luna",
@@ -409,10 +409,46 @@
     },
     {
       "month": "2026-10",
-      "plays": 1011
+      "plays": 1017
     }
   ],
   "recent": [
+    {
+      "title": "Hunter",
+      "artist": "Deafheaven",
+      "album": "At Work in the Fields of the Bomb",
+      "played_at": "2026-10-26 18:11:36"
+    },
+    {
+      "title": "Altamaha",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 18:06:56"
+    },
+    {
+      "title": "Divinity Through Hardship",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 18:02:10"
+    },
+    {
+      "title": "Idle Hands",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 17:55:48"
+    },
+    {
+      "title": "Peace in Death",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 17:49:47"
+    },
+    {
+      "title": "Hymnal",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 17:45:34"
+    },
     {
       "title": "Nonchalantes de beauté",
       "artist": "Celeste",
@@ -556,42 +592,6 @@
       "artist": "The Blood Mountain Black Metal Choir",
       "album": "Songs From a Dying Empire",
       "played_at": "2026-10-26 13:06:27"
-    },
-    {
-      "title": "Altamaha",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 13:02:11"
-    },
-    {
-      "title": "Divinity Through Hardship",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 12:57:26"
-    },
-    {
-      "title": "Idle Hands",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 12:51:03"
-    },
-    {
-      "title": "Peace in Death",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 12:45:02"
-    },
-    {
-      "title": "Hymnal",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 12:40:50"
-    },
-    {
-      "title": "Blinded and Revealed",
-      "artist": "Misotheist",
-      "album": "De Pinte",
-      "played_at": "2026-10-26 12:37:14"
     }
   ]
 }
