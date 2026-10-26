@@ -1,0 +1,597 @@
+{
+  "generated_at": "2026-10-26T15:57+01:00",
+  "totals": {
+    "plays": 3743,
+    "hours": 321.5,
+    "artists": 283
+  },
+  "top_tracks": [
+    {
+      "title": "Blackest Crow",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 14
+    },
+    {
+      "title": "Little Mouth",
+      "artist": "Michael Gira",
+      "album": "I Am Not Insane",
+      "plays": 13
+    },
+    {
+      "title": "Oh Sinner",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 13
+    },
+    {
+      "title": "Over fjell og gjennom torner",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger",
+      "plays": 11
+    },
+    {
+      "title": "Skald av Satans sol",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger",
+      "plays": 11
+    },
+    {
+      "title": "Starburster",
+      "artist": "Fontaines D.C.",
+      "album": "Romance",
+      "plays": 11
+    },
+    {
+      "title": "Transilvanian Hunger",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger",
+      "plays": 11
+    },
+    {
+      "title": "As Flittermice as Satans Spys",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger",
+      "plays": 10
+    },
+    {
+      "title": "Babes in the Woods",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 10
+    },
+    {
+      "title": "Black Is the Colour",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 10
+    },
+    {
+      "title": "Eden Prison (That Way)",
+      "artist": "Michael Gira",
+      "album": "I Am Not Insane",
+      "plays": 10
+    },
+    {
+      "title": "En ås i dype skogen",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger",
+      "plays": 10
+    },
+    {
+      "title": "Graven tåkeheimens saler",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger",
+      "plays": 10
+    },
+    {
+      "title": "Hard Times",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 10
+    },
+    {
+      "title": "Here’s the Thing",
+      "artist": "Fontaines D.C.",
+      "album": "Romance",
+      "plays": 10
+    },
+    {
+      "title": "I en hall med flesk og mjød",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger",
+      "plays": 10
+    },
+    {
+      "title": "Once I Had a Sweetheart",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 10
+    },
+    {
+      "title": "Polly Gosford",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 10
+    },
+    {
+      "title": "Slottet i det fjerne",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger",
+      "plays": 10
+    },
+    {
+      "title": "I: The Weapon",
+      "artist": "Cult of Luna",
+      "album": "Vertikal",
+      "plays": 9
+    },
+    {
+      "title": "Can You Feel My Heart",
+      "artist": "Fontaines D.C.",
+      "album": "Can You Feel My Heart (triple j Like A Version)",
+      "plays": 8
+    },
+    {
+      "title": "Desire",
+      "artist": "Fontaines D.C.",
+      "album": "Romance",
+      "plays": 8
+    },
+    {
+      "title": "Eden Prison (This Way)",
+      "artist": "Michael Gira",
+      "album": "I Am Not Insane",
+      "plays": 8
+    },
+    {
+      "title": "The Evil Has Landed",
+      "artist": "Queens of the Stone Age",
+      "album": "Villains",
+      "plays": 8
+    },
+    {
+      "title": "Badea blues",
+      "artist": "Verdena",
+      "album": "Wow CD2",
+      "plays": 7
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Verdena",
+      "plays": 170
+    },
+    {
+      "artist": "Nine Inch Nails",
+      "plays": 142
+    },
+    {
+      "artist": "Swans",
+      "plays": 131
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "plays": 100
+    },
+    {
+      "artist": "Darkthrone",
+      "plays": 96
+    },
+    {
+      "artist": "Chat Pile",
+      "plays": 93
+    },
+    {
+      "artist": "Wolves in the Throne Room",
+      "plays": 92
+    },
+    {
+      "artist": "Michael Gira",
+      "plays": 91
+    },
+    {
+      "artist": "The Desert Sessions",
+      "plays": 88
+    },
+    {
+      "artist": "The Body • BIG • BRAVE",
+      "plays": 77
+    },
+    {
+      "artist": "The Beatles",
+      "plays": 66
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "plays": 65
+    },
+    {
+      "artist": "System Of A Down",
+      "plays": 58
+    },
+    {
+      "artist": "†††",
+      "plays": 56
+    },
+    {
+      "artist": "Aphex Twin",
+      "plays": 53
+    },
+    {
+      "artist": "Botanist",
+      "plays": 52
+    },
+    {
+      "artist": "Depeche Mode",
+      "plays": 47
+    },
+    {
+      "artist": "Son Lux",
+      "plays": 45
+    },
+    {
+      "artist": "Ulver",
+      "plays": 42
+    },
+    {
+      "artist": "Deafheaven",
+      "plays": 40
+    },
+    {
+      "artist": "Cult of Luna",
+      "plays": 38
+    },
+    {
+      "artist": "Boards of Canada",
+      "plays": 37
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "plays": 37
+    },
+    {
+      "artist": "Blut Aus Nord",
+      "plays": 36
+    },
+    {
+      "artist": "Mount Eerie",
+      "plays": 35
+    }
+  ],
+  "top_albums": [
+    {
+      "album": "Transilvanian Hunger",
+      "artist": "Darkthrone",
+      "plays": 83
+    },
+    {
+      "album": "I Am Not Insane",
+      "artist": "Michael Gira",
+      "plays": 82
+    },
+    {
+      "album": "Wow CD2",
+      "artist": "Verdena",
+      "plays": 81
+    },
+    {
+      "album": "Leaving None but Small Birds",
+      "artist": "The Body • BIG • BRAVE",
+      "plays": 77
+    },
+    {
+      "album": "Romance",
+      "artist": "Fontaines D.C.",
+      "plays": 63
+    },
+    {
+      "album": "Goodnight, God Bless, I Love U, Delete.",
+      "artist": "†††",
+      "plays": 49
+    },
+    {
+      "album": "Requiem",
+      "artist": "Verdena",
+      "plays": 43
+    },
+    {
+      "album": "Collective: Setlist 2017",
+      "artist": "Botanist",
+      "plays": 38
+    },
+    {
+      "album": "Inferno",
+      "artist": "Boards of Canada",
+      "plays": 37
+    },
+    {
+      "album": "Let It Be",
+      "artist": "The Beatles",
+      "plays": 35
+    },
+    {
+      "album": "Mezmerize",
+      "artist": "System Of A Down",
+      "plays": 35
+    },
+    {
+      "album": "The Beggar",
+      "artist": "Swans",
+      "plays": 34
+    },
+    {
+      "album": "IGOR",
+      "artist": "Tyler, The Creator",
+      "plays": 30
+    },
+    {
+      "album": "Wow CD1",
+      "artist": "Verdena",
+      "plays": 30
+    },
+    {
+      "album": "Blood Inside",
+      "artist": "Ulver",
+      "plays": 29
+    },
+    {
+      "album": "Cool World",
+      "artist": "Chat Pile",
+      "plays": 28
+    },
+    {
+      "album": "Live at Roadburn 2023",
+      "artist": "Chat Pile",
+      "plays": 28
+    },
+    {
+      "album": "The Social Network",
+      "artist": "Trent Reznor and Atticus Ross",
+      "plays": 27
+    },
+    {
+      "album": "Night Palace",
+      "artist": "Mount Eerie",
+      "plays": 26
+    },
+    {
+      "album": "Celestial Lineage",
+      "artist": "Wolves in the Throne Room",
+      "plays": 25
+    },
+    {
+      "album": "Lanterns",
+      "artist": "Son Lux",
+      "plays": 25
+    },
+    {
+      "album": "Vertikal",
+      "artist": "Cult of Luna",
+      "plays": 25
+    },
+    {
+      "album": "Hail to the Thief (Collector's Edition)",
+      "artist": "Radiohead",
+      "plays": 24
+    },
+    {
+      "album": "Scars on Broadway",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "plays": 24
+    },
+    {
+      "album": "…Beginning Of The End",
+      "artist": "Portrayal Of Guilt",
+      "plays": 24
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-05",
+      "plays": 126
+    },
+    {
+      "month": "2026-06",
+      "plays": 631
+    },
+    {
+      "month": "2026-07",
+      "plays": 596
+    },
+    {
+      "month": "2026-08",
+      "plays": 683
+    },
+    {
+      "month": "2026-09",
+      "plays": 704
+    },
+    {
+      "month": "2026-10",
+      "plays": 1003
+    }
+  ],
+  "recent": [
+    {
+      "title": "Peace in Death",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 15:37:17"
+    },
+    {
+      "title": "Hymnal",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 15:33:04"
+    },
+    {
+      "title": "I Appear Missing",
+      "artist": "Queens Of The Stone Age",
+      "album": "...Like Clockwork",
+      "played_at": "2026-10-26 15:13:37"
+    },
+    {
+      "title": "The Evil Has Landed",
+      "artist": "Queens of the Stone Age",
+      "album": "Villains",
+      "played_at": "2026-10-26 15:07:18"
+    },
+    {
+      "title": "Angrboda",
+      "artist": "Wolves in the Throne Room",
+      "album": "Thrice Woven",
+      "played_at": "2026-10-26 14:34:39"
+    },
+    {
+      "title": "The Old Ones Are With Us",
+      "artist": "Wolves in the Throne Room",
+      "album": "Thrice Woven",
+      "played_at": "2026-10-26 14:26:01"
+    },
+    {
+      "title": "Born From the Serpent’s Eye",
+      "artist": "Wolves in the Throne Room",
+      "album": "Thrice Woven",
+      "played_at": "2026-10-26 14:16:22"
+    },
+    {
+      "title": "Wretched Spirits, Land of Light",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-10-26 14:09:01"
+    },
+    {
+      "title": "Ghosts Among the Obelisks",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-10-26 14:01:11"
+    },
+    {
+      "title": "The Orca Cliffs",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-10-26 13:53:13"
+    },
+    {
+      "title": "Foretold in Reflections",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-10-26 13:43:22"
+    },
+    {
+      "title": "Knights of Tiamat",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-10-26 13:34:45"
+    },
+    {
+      "title": "Estuary",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-10-26 13:27:11"
+    },
+    {
+      "title": "The Apple Orchard",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 13:19:33"
+    },
+    {
+      "title": "No Way Out",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 13:13:11"
+    },
+    {
+      "title": "Bring Forth the Guillotine",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 13:06:27"
+    },
+    {
+      "title": "Altamaha",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 13:02:11"
+    },
+    {
+      "title": "Divinity Through Hardship",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 12:57:26"
+    },
+    {
+      "title": "Idle Hands",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 12:51:03"
+    },
+    {
+      "title": "Peace in Death",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 12:45:02"
+    },
+    {
+      "title": "Hymnal",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-26 12:40:50"
+    },
+    {
+      "title": "Blinded and Revealed",
+      "artist": "Misotheist",
+      "album": "De Pinte",
+      "played_at": "2026-10-26 12:37:14"
+    },
+    {
+      "title": "Unanswered Thrice",
+      "artist": "Misotheist",
+      "album": "De Pinte",
+      "played_at": "2026-10-26 12:30:34"
+    },
+    {
+      "title": "Et in pulverem mortis deduxisti me.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-10-26 12:24:46"
+    },
+    {
+      "title": "Plus aucun membre ne sera rendu.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-10-26 11:51:59"
+    },
+    {
+      "title": "Il est trop tard pour rendre gloire. Ainsi la lumière sera changée en ombre de la mort.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-10-26 11:45:18"
+    },
+    {
+      "title": "Voilà l'homme qui ne te prenait pas comme Seigneur.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-10-26 11:39:52"
+    },
+    {
+      "title": "Une place parmi les morts.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-10-26 11:34:04"
+    },
+    {
+      "title": "Regarde tes cadavres car il ne te permettra pas qu'on les enterre.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-10-26 11:27:28"
+    },
+    {
+      "title": "La terre ne cessera de se consumer.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-10-26 11:21:04"
+    }
+  ]
+}

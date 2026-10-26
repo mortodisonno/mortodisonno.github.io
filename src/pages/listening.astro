@@ -1,0 +1,262 @@
+---
+import Layout from '../layouts/Layout.astro';
+import stats from '../data/listening-stats.json';
+
+const { totals, top_artists, top_tracks, top_albums, monthly, recent } = stats;
+
+// data "ultimo aggiornamento" formattata all'italiana
+const updatedAt = new Date(stats.generated_at).toLocaleString('it-IT', {
+  day: '2-digit',
+  month: 'long',
+  year: 'numeric',
+  hour: '2-digit',
+  minute: '2-digit',
+});
+
+// grafico mensile: ultime 24 voci, scala sul picco massimo
+const chart = monthly.slice(-24);
+const maxPlays = Math.max(...chart.map((m) => m.plays));
+
+// larghezza percentuale delle barrette nelle top-list
+const maxArtist = Math.max(...top_artists.map((a) => a.plays));
+const maxAlbum = Math.max(...top_albums.map((a) => a.plays));
+const maxTrack = Math.max(...top_tracks.map((t) => t.plays));
+---
+
+<Layout title="Ascolti — mortodisonno">
+  <section class="intro">
+    <h1>ascolti</h1>
+    <p class="tagline">i dischi che mi metto sù, la musica che mi piace</p>
+    <p class="updated">aggiornato al {updatedAt}</p>
+  </section>
+
+  <section class="kpis">
+    <div class="kpi">
+      <span class="kpi-value">{totals.plays.toLocaleString('it-IT')}</span>
+      <span class="kpi-label">ascolti</span>
+    </div>
+    <div class="kpi">
+      <span class="kpi-value">{Math.round(totals.hours).toLocaleString('it-IT')}h</span>
+      <span class="kpi-label">di musica</span>
+    </div>
+    <div class="kpi">
+      <span class="kpi-value">{totals.artists}</span>
+      <span class="kpi-label">artisti</span>
+    </div>
+  </section>
+
+  <section class="lists">
+    <div class="list">
+      <h2>artisti più ascoltati</h2>
+      <ol>
+        {top_artists.slice(0, 10).map((a, i) => (
+          <li>
+            <span class="rank">{String(i + 1).padStart(2, '0')}</span>
+            <span class="name" style={`background-size: ${(a.plays / maxArtist) * 100}% 100%`}>{a.artist}</span>
+            <span class="count">{a.plays}</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+
+    <div class="list">
+      <h2>album più ascoltati</h2>
+      <ol>
+        {top_albums.slice(0, 10).map((a, i) => (
+          <li>
+            <span class="rank">{String(i + 1).padStart(2, '0')}</span>
+            <span class="name" style={`background-size: ${(a.plays / maxAlbum) * 100}% 100%`}>
+              {a.album}
+              <span class="sub">{a.artist}</span>
+            </span>
+            <span class="count">{a.plays}</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="tracks">
+    <h2>brani più ascoltati</h2>
+    <ol>
+      {top_tracks.slice(0, 15).map((t, i) => (
+        <li>
+          <span class="rank">{String(i + 1).padStart(2, '0')}</span>
+          <span class="name" style={`background-size: ${(t.plays / maxTrack) * 100}% 100%`}>
+            {t.title}
+            <span class="sub">{t.artist}</span>
+          </span>
+          <span class="count">{t.plays}</span>
+        </li>
+      ))}
+    </ol>
+  </section>
+
+  <section class="recent">
+    <h2>ultimi ascolti</h2>
+    <ul>
+      {recent.slice(0, 15).map((r) => (
+        <li>
+          <span class="when">{r.played_at.slice(5, 16)}</span>
+          <span class="title">{r.title}</span>
+          <span class="who">{r.artist}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Layout>
+
+<style>
+  .intro {
+    max-width: 55rem;
+    margin: 0 auto 2rem;
+    text-align: center;
+  }
+  .tagline {
+    color: var(--muted);
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.5rem;
+  }
+  .updated {
+    font-size: 0.7rem;
+    color: var(--muted);
+    opacity: 0.7;
+  }
+
+  /* KPI */
+  .kpis {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    flex-wrap: wrap;
+    margin-bottom: 2.5rem;
+  }
+  .kpi { text-align: center; }
+  .kpi-value {
+    display: block;
+    font-family: monospace;
+    font-size: 1.6rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .kpi-label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    letter-spacing: 0.06em;
+    text-transform: lowercase;
+  }
+
+  /* grafico mensile: sole barre CSS, niente libreria */
+  .monthly { margin-bottom: 2.5rem; }
+  h2 {
+    font-size: 0.8rem;
+    color: var(--muted);
+    font-weight: normal;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.8rem;
+  }
+  .bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+    height: 6rem;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.2rem;
+  }
+  .bar-col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+    gap: 0.25rem;
+  }
+  .bar {
+    width: 100%;
+    background: var(--cyan);
+    opacity: 0.5;
+    border-radius: 1px 1px 0 0;
+    min-height: 2px;
+  }
+  .bar-col:hover .bar { opacity: 0.9; }
+  .bar-label {
+    font-family: monospace;
+    font-size: 0.55rem;
+    color: var(--muted);
+  }
+
+  /* top-list: la "barretta" è un gradiente di sfondo della riga */
+  .lists {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+  }
+  @media (max-width: 700px) {
+    .lists { grid-template-columns: 1fr; }
+  }
+
+  ol { list-style: none; }
+  li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    padding: 0.25rem 0.4rem;
+    border-bottom: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
+  }
+  .rank {
+    font-family: monospace;
+    font-size: 0.7rem;
+    color: var(--muted);
+    min-width: 1.4rem;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  li:hover .rank { color: var(--cyan); }
+  .name {
+    flex: 1;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    background-image: linear-gradient(
+      color-mix(in srgb, var(--cyan) 12%, transparent),
+      color-mix(in srgb, var(--cyan) 12%, transparent)
+    );
+    background-repeat: no-repeat;
+  }
+  .sub {
+    display: block;
+    font-size: 0.7rem;
+    color: var(--muted);
+  }
+  .count {
+    font-family: monospace;
+    font-size: 0.75rem;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* recenti */
+  .recent ul { list-style: none; }
+  .recent li {
+    display: flex;
+    gap: 0.8rem;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8rem;
+    border-bottom: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
+  }
+  .when {
+    font-family: monospace;
+    font-size: 0.7rem;
+    color: var(--muted);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+  .title { flex: 1; }
+  .who { color: var(--muted); }
+  .more {
+    font-size: 0.7rem;
+    color: var(--muted);
+    margin-top: 0.6rem;
+  }
+</style>
