@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T21:00+01:00",
+  "generated_at": "2026-10-27T23:00+01:00",
   "totals": {
-    "plays": 3757,
-    "hours": 322.7,
+    "plays": 3762,
+    "hours": 323.2,
     "artists": 284
   },
   "top_tracks": [
@@ -184,7 +184,7 @@
     },
     {
       "artist": "Wolves in the Throne Room",
-      "plays": 92
+      "plays": 93
     },
     {
       "artist": "Michael Gira",
@@ -231,12 +231,12 @@
       "plays": 45
     },
     {
-      "artist": "Ulver",
+      "artist": "Deafheaven",
       "plays": 42
     },
     {
-      "artist": "Deafheaven",
-      "plays": 41
+      "artist": "Ulver",
+      "plays": 42
     },
     {
       "artist": "Cult of Luna",
@@ -409,10 +409,40 @@
     },
     {
       "month": "2026-10",
-      "plays": 1017
+      "plays": 1022
     }
   ],
   "recent": [
+    {
+      "title": "Dream House",
+      "artist": "Deafheaven",
+      "album": "Sunbather",
+      "played_at": "2026-10-27 22:59:46"
+    },
+    {
+      "title": "Unanswered Thrice",
+      "artist": "Misotheist",
+      "album": "De Pinte",
+      "played_at": "2026-10-27 09:00:28"
+    },
+    {
+      "title": "Estuary",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-10-27 08:48:08"
+    },
+    {
+      "title": "Hymnal",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-10-27 08:33:05"
+    },
+    {
+      "title": "Iron Man",
+      "artist": "Black Sabbath",
+      "album": "Paranoid",
+      "played_at": "2026-10-26 22:27:50"
+    },
     {
       "title": "Hunter",
       "artist": "Deafheaven",
@@ -562,36 +592,6 @@
       "artist": "Wolves in the Throne Room",
       "album": "Estuary",
       "played_at": "2026-10-26 13:43:22"
-    },
-    {
-      "title": "Knights of Tiamat",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-10-26 13:34:45"
-    },
-    {
-      "title": "Estuary",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-10-26 13:27:11"
-    },
-    {
-      "title": "The Apple Orchard",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 13:19:33"
-    },
-    {
-      "title": "No Way Out",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 13:13:11"
-    },
-    {
-      "title": "Bring Forth the Guillotine",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 13:06:27"
     }
   ]
 }
