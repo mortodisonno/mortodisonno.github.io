@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T23:00+01:00",
+  "generated_at": "2026-10-28T23:00+01:00",
   "totals": {
-    "plays": 3762,
-    "hours": 323.2,
+    "plays": 3767,
+    "hours": 323.5,
     "artists": 284
   },
   "top_tracks": [
@@ -409,10 +409,40 @@
     },
     {
       "month": "2026-10",
-      "plays": 1022
+      "plays": 1027
     }
   ],
   "recent": [
+    {
+      "title": "Par le jugement causé par ses poisons.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-10-28 22:51:45"
+    },
+    {
+      "title": "Et in pulverem mortis deduxisti me.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-10-28 22:48:14"
+    },
+    {
+      "title": "The Sun No Longer Rises",
+      "artist": "Immortal",
+      "album": "Pure Holocaust",
+      "played_at": "2026-10-28 10:10:09"
+    },
+    {
+      "title": "A Sign for the Norse Hordes to Ride",
+      "artist": "Immortal",
+      "album": "Pure Holocaust",
+      "played_at": "2026-10-28 10:05:49"
+    },
+    {
+      "title": "Unsilent Storms in the North Abyss",
+      "artist": "Immortal",
+      "album": "Pure Holocaust",
+      "played_at": "2026-10-28 10:01:56"
+    },
     {
       "title": "Dream House",
       "artist": "Deafheaven",
@@ -562,36 +592,6 @@
       "artist": "Wolves in the Throne Room",
       "album": "Thrice Woven",
       "played_at": "2026-10-26 14:26:01"
-    },
-    {
-      "title": "Born From the Serpent’s Eye",
-      "artist": "Wolves in the Throne Room",
-      "album": "Thrice Woven",
-      "played_at": "2026-10-26 14:16:22"
-    },
-    {
-      "title": "Wretched Spirits, Land of Light",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-10-26 14:09:01"
-    },
-    {
-      "title": "Ghosts Among the Obelisks",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-10-26 14:01:11"
-    },
-    {
-      "title": "The Orca Cliffs",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-10-26 13:53:13"
-    },
-    {
-      "title": "Foretold in Reflections",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-10-26 13:43:22"
     }
   ]
 }
