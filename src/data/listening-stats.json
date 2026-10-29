@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T23:00+01:00",
+  "generated_at": "2026-10-29T01:00+01:00",
   "totals": {
-    "plays": 3767,
-    "hours": 323.5,
+    "plays": 3780,
+    "hours": 325.0,
     "artists": 284
   },
   "top_tracks": [
@@ -409,10 +409,88 @@
     },
     {
       "month": "2026-10",
-      "plays": 1027
+      "plays": 1040
     }
   ],
   "recent": [
+    {
+      "title": "Refuge/Resist (Film Version)",
+      "artist": "Sleepbomb",
+      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
+      "played_at": "2026-10-29 00:54:04"
+    },
+    {
+      "title": "Another One For The Fire",
+      "artist": "Sleepbomb",
+      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
+      "played_at": "2026-10-29 00:50:24"
+    },
+    {
+      "title": "The Basement is the Safest Place",
+      "artist": "Sleepbomb",
+      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
+      "played_at": "2026-10-29 00:45:00"
+    },
+    {
+      "title": "Emergency Broadcast Network",
+      "artist": "Sleepbomb",
+      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
+      "played_at": "2026-10-29 00:42:45"
+    },
+    {
+      "title": "It Was A Good Plan",
+      "artist": "Sleepbomb",
+      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
+      "played_at": "2026-10-29 00:36:33"
+    },
+    {
+      "title": "Flames From Afar",
+      "artist": "Sleepbomb",
+      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
+      "played_at": "2026-10-29 00:31:26"
+    },
+    {
+      "title": "Refuge/Resist",
+      "artist": "Sleepbomb",
+      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
+      "played_at": "2026-10-29 00:22:04"
+    },
+    {
+      "title": "Cemetery Song",
+      "artist": "Sleepbomb",
+      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
+      "played_at": "2026-10-29 00:13:52"
+    },
+    {
+      "title": "Tropics",
+      "artist": "Palms",
+      "album": "Palms",
+      "played_at": "2026-10-29 00:13:09"
+    },
+    {
+      "title": "Shortwave Radio",
+      "artist": "Palms",
+      "album": "Palms",
+      "played_at": "2026-10-29 00:06:12"
+    },
+    {
+      "title": "Mission Sunset",
+      "artist": "Palms",
+      "album": "Palms",
+      "played_at": "2026-10-28 23:56:15"
+    },
+    {
+      "title": "Patagonia",
+      "artist": "Palms",
+      "album": "Palms",
+      "played_at": "2026-10-28 23:49:34"
+    },
+    {
+      "title": "Future Warrior",
+      "artist": "Palms",
+      "album": "Palms",
+      "played_at": "2026-10-28 23:41:37"
+    },
     {
       "title": "Par le jugement causé par ses poisons.",
       "artist": "VI",
@@ -514,84 +592,6 @@
       "artist": "Celeste",
       "album": "Assassine(s)",
       "played_at": "2026-10-26 16:51:23"
-    },
-    {
-      "title": "De tes yeux bleus perlés",
-      "artist": "Celeste",
-      "album": "Assassine(s)",
-      "played_at": "2026-10-26 16:45:54"
-    },
-    {
-      "title": "Des torrents de coups",
-      "artist": "Celeste",
-      "album": "Assassine(s)",
-      "played_at": "2026-10-26 16:40:42"
-    },
-    {
-      "title": "Under the Carpathian Yoke",
-      "artist": "Vlad Tepes",
-      "album": "March to the Black Holocaust",
-      "played_at": "2026-10-26 16:32:58"
-    },
-    {
-      "title": "Diabolical Reaps",
-      "artist": "Vlad Tepes",
-      "album": "March to the Black Holocaust",
-      "played_at": "2026-10-26 16:29:05"
-    },
-    {
-      "title": "Misery Fear & Storm Hunger",
-      "artist": "Vlad Tepes",
-      "album": "March to the Black Holocaust",
-      "played_at": "2026-10-26 16:25:14"
-    },
-    {
-      "title": "Dans nôtre chute",
-      "artist": "Vlad Tepes",
-      "album": "March to the Black Holocaust",
-      "played_at": "2026-10-26 16:22:53"
-    },
-    {
-      "title": "Drink the Poetry of the Celtic Disciple",
-      "artist": "Vlad Tepes",
-      "album": "March to the Black Holocaust",
-      "played_at": "2026-10-26 16:14:16"
-    },
-    {
-      "title": "Peace in Death",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 15:37:17"
-    },
-    {
-      "title": "Hymnal",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 15:33:04"
-    },
-    {
-      "title": "I Appear Missing",
-      "artist": "Queens Of The Stone Age",
-      "album": "...Like Clockwork",
-      "played_at": "2026-10-26 15:13:37"
-    },
-    {
-      "title": "The Evil Has Landed",
-      "artist": "Queens of the Stone Age",
-      "album": "Villains",
-      "played_at": "2026-10-26 15:07:18"
-    },
-    {
-      "title": "Angrboda",
-      "artist": "Wolves in the Throne Room",
-      "album": "Thrice Woven",
-      "played_at": "2026-10-26 14:34:39"
-    },
-    {
-      "title": "The Old Ones Are With Us",
-      "artist": "Wolves in the Throne Room",
-      "album": "Thrice Woven",
-      "played_at": "2026-10-26 14:26:01"
     }
   ]
 }
