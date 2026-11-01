@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T14:00+01:00",
+  "generated_at": "2026-11-01T22:00+01:00",
   "totals": {
-    "plays": 3871,
-    "hours": 332.9,
+    "plays": 3894,
+    "hours": 334.9,
     "artists": 288
   },
   "top_tracks": [
@@ -227,6 +227,10 @@
       "plays": 47
     },
     {
+      "artist": "Queens of the Stone Age",
+      "plays": 46
+    },
+    {
       "artist": "Son Lux",
       "plays": 45
     },
@@ -253,10 +257,6 @@
     {
       "artist": "The Kilimanjaro Darkjazz Ensemble",
       "plays": 37
-    },
-    {
-      "artist": "Blut Aus Nord",
-      "plays": 36
     }
   ],
   "top_albums": [
@@ -326,6 +326,11 @@
       "plays": 30
     },
     {
+      "album": "Perfecth",
+      "artist": "Queens of the Stone Age",
+      "plays": 30
+    },
+    {
       "album": "Wow CD1",
       "artist": "Verdena",
       "plays": 30
@@ -379,11 +384,6 @@
       "album": "Scars on Broadway",
       "artist": "Daron Malakian and Scars On Broadway",
       "plays": 24
-    },
-    {
-      "album": "…Beginning Of The End",
-      "artist": "Portrayal Of Guilt",
-      "plays": 24
     }
   ],
   "monthly": [
@@ -397,7 +397,7 @@
     },
     {
       "month": "2026-07",
-      "plays": 596
+      "plays": 594
     },
     {
       "month": "2026-08",
@@ -413,10 +413,160 @@
     },
     {
       "month": "2026-11",
-      "plays": 37
+      "plays": 62
     }
   ],
   "recent": [
+    {
+      "title": "Harvester Of Sorrow",
+      "artist": "Metallica",
+      "album": "…And Justice For All",
+      "played_at": "2026-11-01 20:18:13"
+    },
+    {
+      "title": "The Shortest Straw",
+      "artist": "Metallica",
+      "album": "…And Justice For All",
+      "played_at": "2026-11-01 20:11:39"
+    },
+    {
+      "title": "…And Justice For All",
+      "artist": "Metallica",
+      "album": "…And Justice For All",
+      "played_at": "2026-11-01 20:01:35"
+    },
+    {
+      "title": "One",
+      "artist": "Metallica",
+      "album": "…And Justice For All",
+      "played_at": "2026-11-01 17:35:44"
+    },
+    {
+      "title": "Eye Of The Beholder",
+      "artist": "Metallica",
+      "album": "…And Justice For All",
+      "played_at": "2026-11-01 17:28:04"
+    },
+    {
+      "title": "…And Justice For All",
+      "artist": "Metallica",
+      "album": "…And Justice For All",
+      "played_at": "2026-11-01 17:20:47"
+    },
+    {
+      "title": "Blackened",
+      "artist": "Metallica",
+      "album": "…And Justice For All",
+      "played_at": "2026-11-01 17:11:50"
+    },
+    {
+      "title": "For Whom The Bell Tolls",
+      "artist": "Metallica",
+      "album": "Ride The Lightning",
+      "played_at": "2026-11-01 17:00:38"
+    },
+    {
+      "title": "Ride The Lightning",
+      "artist": "Metallica",
+      "album": "Ride The Lightning",
+      "played_at": "2026-11-01 16:54:43"
+    },
+    {
+      "title": "Fight Fire With Fire",
+      "artist": "Metallica",
+      "album": "Ride The Lightning",
+      "played_at": "2026-11-01 16:49:00"
+    },
+    {
+      "title": "Mono",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 16:42:02"
+    },
+    {
+      "title": "Where the Goth Girls At?",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 16:38:36"
+    },
+    {
+      "title": "Insignificant Other",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 16:33:55"
+    },
+    {
+      "title": "It’s Only Love",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 16:29:25"
+    },
+    {
+      "title": "Run Away From the Mob",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 16:13:13"
+    },
+    {
+      "title": "Phantom Limb",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 16:08:46"
+    },
+    {
+      "title": "Easy Street",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 16:04:22"
+    },
+    {
+      "title": "Sunday",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 15:59:59"
+    },
+    {
+      "title": "From the Cliff",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 15:56:02"
+    },
+    {
+      "title": "Mono",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 15:52:53"
+    },
+    {
+      "title": "Where the Goth Girls At?",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 15:49:28"
+    },
+    {
+      "title": "Insignificant Other",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-01 15:44:47"
+    },
+    {
+      "title": "Sola Gratia (Part 2)",
+      "artist": "Jozef Van Wissen / SQÜRL",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 14:06:41"
+    },
+    {
+      "title": "In Templum Dei",
+      "artist": "Jozef Van Wissen",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 14:03:45"
+    },
+    {
+      "title": "Streets of Tangier",
+      "artist": "Jozef Van Wissen / SQÜRL",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 14:02:10"
+    },
     {
       "title": "Spooky Action at a Distance",
       "artist": "SQÜRL",
@@ -446,156 +596,6 @@
       "artist": "Jozef Van Wissen / SQÜRL",
       "album": "Only Lovers Left Alive",
       "played_at": "2026-11-01 13:43:49"
-    },
-    {
-      "title": "Funnel of Love",
-      "artist": "SQÜRL",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 13:40:09"
-    },
-    {
-      "title": "Streets of Detroit",
-      "artist": "SQÜRL",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 13:39:03"
-    },
-    {
-      "title": "A Nobler Rot",
-      "artist": "Spectral Wound",
-      "album": "Terra Nullius",
-      "played_at": "2026-11-01 13:38:53"
-    },
-    {
-      "title": "Under a Purple Moon",
-      "artist": "Spectral Wound",
-      "album": "Terra Nullius",
-      "played_at": "2026-11-01 13:34:25"
-    },
-    {
-      "title": "Mi Sono Innamorato di Te",
-      "artist": "Luigi Tenco",
-      "album": "Luigi Tenco",
-      "played_at": "2026-11-01 13:32:00"
-    },
-    {
-      "title": "A Pact With Kólumkilli",
-      "artist": "Auld Ridge",
-      "album": "Folklore from Further Out",
-      "played_at": "2026-11-01 13:31:24"
-    },
-    {
-      "title": "The Sound of the Fyrth Begins to Creep",
-      "artist": "Auld Ridge",
-      "album": "Folklore from Further Out",
-      "played_at": "2026-11-01 13:30:59"
-    },
-    {
-      "title": "The Sound of the Fyrth Begins to Creep",
-      "artist": "Auld Ridge",
-      "album": "Folklore from Further Out",
-      "played_at": "2026-11-01 13:27:46"
-    },
-    {
-      "title": "The Sound of the Fyrth Begins to Creep",
-      "artist": "Auld Ridge",
-      "album": "Folklore from Further Out",
-      "played_at": "2026-11-01 13:17:18"
-    },
-    {
-      "title": "Titchfield Abbey",
-      "artist": "Auld Ridge",
-      "album": "Folklore from Further Out",
-      "played_at": "2026-11-01 13:14:21"
-    },
-    {
-      "title": "A Pact With Kólumkilli",
-      "artist": "Auld Ridge",
-      "album": "Folklore from Further Out",
-      "played_at": "2026-11-01 13:05:16"
-    },
-    {
-      "title": "Ecstasy",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 13:03:12"
-    },
-    {
-      "title": "Around Here",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 13:01:05"
-    },
-    {
-      "title": "Something You Can't Forget",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 12:57:41"
-    },
-    {
-      "title": "Hidden",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 12:45:37"
-    },
-    {
-      "title": "Together",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 12:41:30"
-    },
-    {
-      "title": "No Lesson",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 12:37:04"
-    },
-    {
-      "title": "Gone Fast",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 12:33:04"
-    },
-    {
-      "title": "Further",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 12:30:08"
-    },
-    {
-      "title": "Introspective Trip",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 12:26:15"
-    },
-    {
-      "title": "1990",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 12:23:05"
-    },
-    {
-      "title": "Ecstasy",
-      "artist": "Soviet Soviet",
-      "album": "Fate",
-      "played_at": "2026-11-01 12:20:02"
-    },
-    {
-      "title": "Words (Between The Lines Of Ag",
-      "artist": "Neil Young",
-      "album": "Harvest",
-      "played_at": "2026-11-01 01:49:55"
-    },
-    {
-      "title": "The Needle And The Damage Done",
-      "artist": "Neil Young",
-      "album": "Harvest",
-      "played_at": "2026-11-01 01:45:33"
-    },
-    {
-      "title": "Alabama",
-      "artist": "Neil Young",
-      "album": "Harvest",
-      "played_at": "2026-11-01 01:42:30"
     }
   ]
 }
