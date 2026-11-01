@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T01:00+01:00",
+  "generated_at": "2026-11-01T14:00+01:00",
   "totals": {
-    "plays": 3780,
-    "hours": 325.0,
-    "artists": 284
+    "plays": 3871,
+    "hours": 332.9,
+    "artists": 288
   },
   "top_tracks": [
     {
       "title": "Blackest Crow",
       "artist": "The Body • BIG • BRAVE",
       "album": "Leaving None but Small Birds",
-      "plays": 14
+      "plays": 15
     },
     {
       "title": "Little Mouth",
@@ -171,6 +171,10 @@
       "plays": 131
     },
     {
+      "artist": "Wolves in the Throne Room",
+      "plays": 103
+    },
+    {
       "artist": "Fontaines D.C.",
       "plays": 100
     },
@@ -183,10 +187,6 @@
       "plays": 93
     },
     {
-      "artist": "Wolves in the Throne Room",
-      "plays": 93
-    },
-    {
       "artist": "Michael Gira",
       "plays": 91
     },
@@ -196,7 +196,7 @@
     },
     {
       "artist": "The Body • BIG • BRAVE",
-      "plays": 77
+      "plays": 78
     },
     {
       "artist": "The Beatles",
@@ -243,6 +243,10 @@
       "plays": 38
     },
     {
+      "artist": "Mount Eerie",
+      "plays": 38
+    },
+    {
       "artist": "Boards of Canada",
       "plays": 37
     },
@@ -253,10 +257,6 @@
     {
       "artist": "Blut Aus Nord",
       "plays": 36
-    },
-    {
-      "artist": "Mount Eerie",
-      "plays": 35
     }
   ],
   "top_albums": [
@@ -278,7 +278,7 @@
     {
       "album": "Leaving None but Small Birds",
       "artist": "The Body • BIG • BRAVE",
-      "plays": 77
+      "plays": 78
     },
     {
       "album": "Romance",
@@ -409,189 +409,193 @@
     },
     {
       "month": "2026-10",
-      "plays": 1040
+      "plays": 1094
+    },
+    {
+      "month": "2026-11",
+      "plays": 37
     }
   ],
   "recent": [
     {
-      "title": "Refuge/Resist (Film Version)",
-      "artist": "Sleepbomb",
-      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
-      "played_at": "2026-10-29 00:54:04"
+      "title": "Spooky Action at a Distance",
+      "artist": "SQÜRL",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 13:58:36"
     },
     {
-      "title": "Another One For The Fire",
-      "artist": "Sleepbomb",
-      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
-      "played_at": "2026-10-29 00:50:24"
+      "title": "Please Feel Free to Piss in the Garden",
+      "artist": "SQÜRL",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 13:54:16"
     },
     {
-      "title": "The Basement is the Safest Place",
-      "artist": "Sleepbomb",
-      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
-      "played_at": "2026-10-29 00:45:00"
+      "title": "Diamond Star",
+      "artist": "SQÜRL",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 13:53:02"
     },
     {
-      "title": "Emergency Broadcast Network",
-      "artist": "Sleepbomb",
-      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
-      "played_at": "2026-10-29 00:42:45"
+      "title": "The Taste of Blood",
+      "artist": "Jozef Van Wissen / SQÜRL",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 13:47:14"
     },
     {
-      "title": "It Was A Good Plan",
-      "artist": "Sleepbomb",
-      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
-      "played_at": "2026-10-29 00:36:33"
+      "title": "Sola Gratia (Part 1)",
+      "artist": "Jozef Van Wissen / SQÜRL",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 13:43:49"
     },
     {
-      "title": "Flames From Afar",
-      "artist": "Sleepbomb",
-      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
-      "played_at": "2026-10-29 00:31:26"
+      "title": "Funnel of Love",
+      "artist": "SQÜRL",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 13:40:09"
     },
     {
-      "title": "Refuge/Resist",
-      "artist": "Sleepbomb",
-      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
-      "played_at": "2026-10-29 00:22:04"
+      "title": "Streets of Detroit",
+      "artist": "SQÜRL",
+      "album": "Only Lovers Left Alive",
+      "played_at": "2026-11-01 13:39:03"
     },
     {
-      "title": "Cemetery Song",
-      "artist": "Sleepbomb",
-      "album": "The Sleeping Dead: Excerpts From An Alternative Score For George Romero's \"Night of the Living Dead\"",
-      "played_at": "2026-10-29 00:13:52"
+      "title": "A Nobler Rot",
+      "artist": "Spectral Wound",
+      "album": "Terra Nullius",
+      "played_at": "2026-11-01 13:38:53"
     },
     {
-      "title": "Tropics",
-      "artist": "Palms",
-      "album": "Palms",
-      "played_at": "2026-10-29 00:13:09"
+      "title": "Under a Purple Moon",
+      "artist": "Spectral Wound",
+      "album": "Terra Nullius",
+      "played_at": "2026-11-01 13:34:25"
     },
     {
-      "title": "Shortwave Radio",
-      "artist": "Palms",
-      "album": "Palms",
-      "played_at": "2026-10-29 00:06:12"
+      "title": "Mi Sono Innamorato di Te",
+      "artist": "Luigi Tenco",
+      "album": "Luigi Tenco",
+      "played_at": "2026-11-01 13:32:00"
     },
     {
-      "title": "Mission Sunset",
-      "artist": "Palms",
-      "album": "Palms",
-      "played_at": "2026-10-28 23:56:15"
+      "title": "A Pact With Kólumkilli",
+      "artist": "Auld Ridge",
+      "album": "Folklore from Further Out",
+      "played_at": "2026-11-01 13:31:24"
     },
     {
-      "title": "Patagonia",
-      "artist": "Palms",
-      "album": "Palms",
-      "played_at": "2026-10-28 23:49:34"
+      "title": "The Sound of the Fyrth Begins to Creep",
+      "artist": "Auld Ridge",
+      "album": "Folklore from Further Out",
+      "played_at": "2026-11-01 13:30:59"
     },
     {
-      "title": "Future Warrior",
-      "artist": "Palms",
-      "album": "Palms",
-      "played_at": "2026-10-28 23:41:37"
+      "title": "The Sound of the Fyrth Begins to Creep",
+      "artist": "Auld Ridge",
+      "album": "Folklore from Further Out",
+      "played_at": "2026-11-01 13:27:46"
     },
     {
-      "title": "Par le jugement causé par ses poisons.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-10-28 22:51:45"
+      "title": "The Sound of the Fyrth Begins to Creep",
+      "artist": "Auld Ridge",
+      "album": "Folklore from Further Out",
+      "played_at": "2026-11-01 13:17:18"
     },
     {
-      "title": "Et in pulverem mortis deduxisti me.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-10-28 22:48:14"
+      "title": "Titchfield Abbey",
+      "artist": "Auld Ridge",
+      "album": "Folklore from Further Out",
+      "played_at": "2026-11-01 13:14:21"
     },
     {
-      "title": "The Sun No Longer Rises",
-      "artist": "Immortal",
-      "album": "Pure Holocaust",
-      "played_at": "2026-10-28 10:10:09"
+      "title": "A Pact With Kólumkilli",
+      "artist": "Auld Ridge",
+      "album": "Folklore from Further Out",
+      "played_at": "2026-11-01 13:05:16"
     },
     {
-      "title": "A Sign for the Norse Hordes to Ride",
-      "artist": "Immortal",
-      "album": "Pure Holocaust",
-      "played_at": "2026-10-28 10:05:49"
+      "title": "Ecstasy",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 13:03:12"
     },
     {
-      "title": "Unsilent Storms in the North Abyss",
-      "artist": "Immortal",
-      "album": "Pure Holocaust",
-      "played_at": "2026-10-28 10:01:56"
+      "title": "Around Here",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 13:01:05"
     },
     {
-      "title": "Dream House",
-      "artist": "Deafheaven",
-      "album": "Sunbather",
-      "played_at": "2026-10-27 22:59:46"
+      "title": "Something You Can't Forget",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 12:57:41"
     },
     {
-      "title": "Unanswered Thrice",
-      "artist": "Misotheist",
-      "album": "De Pinte",
-      "played_at": "2026-10-27 09:00:28"
+      "title": "Hidden",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 12:45:37"
     },
     {
-      "title": "Estuary",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-10-27 08:48:08"
+      "title": "Together",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 12:41:30"
     },
     {
-      "title": "Hymnal",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-27 08:33:05"
+      "title": "No Lesson",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 12:37:04"
     },
     {
-      "title": "Iron Man",
-      "artist": "Black Sabbath",
-      "album": "Paranoid",
-      "played_at": "2026-10-26 22:27:50"
+      "title": "Gone Fast",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 12:33:04"
     },
     {
-      "title": "Hunter",
-      "artist": "Deafheaven",
-      "album": "At Work in the Fields of the Bomb",
-      "played_at": "2026-10-26 18:11:36"
+      "title": "Further",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 12:30:08"
     },
     {
-      "title": "Altamaha",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 18:06:56"
+      "title": "Introspective Trip",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 12:26:15"
     },
     {
-      "title": "Divinity Through Hardship",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 18:02:10"
+      "title": "1990",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 12:23:05"
     },
     {
-      "title": "Idle Hands",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 17:55:48"
+      "title": "Ecstasy",
+      "artist": "Soviet Soviet",
+      "album": "Fate",
+      "played_at": "2026-11-01 12:20:02"
     },
     {
-      "title": "Peace in Death",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 17:49:47"
+      "title": "Words (Between The Lines Of Ag",
+      "artist": "Neil Young",
+      "album": "Harvest",
+      "played_at": "2026-11-01 01:49:55"
     },
     {
-      "title": "Hymnal",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-10-26 17:45:34"
+      "title": "The Needle And The Damage Done",
+      "artist": "Neil Young",
+      "album": "Harvest",
+      "played_at": "2026-11-01 01:45:33"
     },
     {
-      "title": "Nonchalantes de beauté",
-      "artist": "Celeste",
-      "album": "Assassine(s)",
-      "played_at": "2026-10-26 16:51:23"
+      "title": "Alabama",
+      "artist": "Neil Young",
+      "album": "Harvest",
+      "played_at": "2026-11-01 01:42:30"
     }
   ]
 }
