@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T22:00+01:00",
+  "generated_at": "2026-11-06T22:00+01:00",
   "totals": {
-    "plays": 3894,
-    "hours": 334.9,
-    "artists": 288
+    "plays": 3946,
+    "hours": 340.1,
+    "artists": 290
   },
   "top_tracks": [
     {
@@ -151,10 +151,10 @@
       "plays": 8
     },
     {
-      "title": "Badea blues",
-      "artist": "Verdena",
-      "album": "Wow CD2",
-      "plays": 7
+      "title": "Unanswered Thrice",
+      "artist": "Misotheist",
+      "album": "De Pinte",
+      "plays": 8
     }
   ],
   "top_artists": [
@@ -172,11 +172,11 @@
     },
     {
       "artist": "Wolves in the Throne Room",
-      "plays": 103
+      "plays": 108
     },
     {
       "artist": "Fontaines D.C.",
-      "plays": 100
+      "plays": 102
     },
     {
       "artist": "Darkthrone",
@@ -197,6 +197,10 @@
     {
       "artist": "The Body • BIG • BRAVE",
       "plays": 78
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "plays": 66
     },
     {
       "artist": "The Beatles",
@@ -225,10 +229,6 @@
     {
       "artist": "Depeche Mode",
       "plays": 47
-    },
-    {
-      "artist": "Queens of the Stone Age",
-      "plays": 46
     },
     {
       "artist": "Son Lux",
@@ -286,6 +286,11 @@
       "plays": 63
     },
     {
+      "album": "Perfecth",
+      "artist": "Queens of the Stone Age",
+      "plays": 50
+    },
+    {
       "album": "Goodnight, God Bless, I Love U, Delete.",
       "artist": "†††",
       "plays": 49
@@ -323,11 +328,6 @@
     {
       "album": "IGOR",
       "artist": "Tyler, The Creator",
-      "plays": 30
-    },
-    {
-      "album": "Perfecth",
-      "artist": "Queens of the Stone Age",
       "plays": 30
     },
     {
@@ -413,189 +413,189 @@
     },
     {
       "month": "2026-11",
-      "plays": 62
+      "plays": 114
     }
   ],
   "recent": [
     {
-      "title": "Harvester Of Sorrow",
+      "title": "Ye Entrancemperium",
+      "artist": "Emperor",
+      "album": "Anthems To The Welkin At Dusk",
+      "played_at": "2026-11-06 21:59:34"
+    },
+    {
+      "title": "A Superior Lament",
+      "artist": "Panopticon",
+      "album": "Autumn Eternal",
+      "played_at": "2026-11-06 20:11:57"
+    },
+    {
+      "title": "Pale Ghosts",
+      "artist": "Panopticon",
+      "album": "Autumn Eternal",
+      "played_at": "2026-11-06 20:00:56"
+    },
+    {
+      "title": "Sleep to the Sound of the Waves Crashing",
+      "artist": "Panopticon",
+      "album": "Autumn Eternal",
+      "played_at": "2026-11-06 19:52:42"
+    },
+    {
+      "title": "Oaks Ablaze",
+      "artist": "Panopticon",
+      "album": "Autumn Eternal",
+      "played_at": "2026-11-06 19:44:01"
+    },
+    {
+      "title": "Autumn Eternal",
+      "artist": "Panopticon",
+      "album": "Autumn Eternal",
+      "played_at": "2026-11-06 19:35:17"
+    },
+    {
+      "title": "Into the North Woods",
+      "artist": "Panopticon",
+      "album": "Autumn Eternal",
+      "played_at": "2026-11-06 19:28:12"
+    },
+    {
+      "title": "Tamarack’s Gold Returns",
+      "artist": "Panopticon",
+      "album": "Autumn Eternal",
+      "played_at": "2026-11-06 19:21:51"
+    },
+    {
+      "title": "affaiblie de beauté",
+      "artist": "coffret de bijoux",
+      "album": "Je t'aimerais, bientôt",
+      "played_at": "2026-11-06 08:46:14"
+    },
+    {
+      "title": "Marianne",
+      "artist": "Fontaines D.C.",
+      "album": "Dopamine Chamber",
+      "played_at": "2026-11-05 21:08:14"
+    },
+    {
+      "title": "Six Shot Morning",
+      "artist": "Fontaines D.C.",
+      "album": "Dopamine Chamber",
+      "played_at": "2026-11-05 21:03:50"
+    },
+    {
+      "title": "All Nightmare Long",
       "artist": "Metallica",
-      "album": "…And Justice For All",
-      "played_at": "2026-11-01 20:18:13"
+      "album": "Death Magnetic",
+      "played_at": "2026-11-05 18:35:25"
     },
     {
-      "title": "The Shortest Straw",
-      "artist": "Metallica",
-      "album": "…And Justice For All",
-      "played_at": "2026-11-01 20:11:39"
+      "title": "Untitled (Devour All the Living Things I)",
+      "artist": "Rhinocervs",
+      "album": "Devour All the Living Things",
+      "played_at": "2026-11-05 08:52:08"
     },
     {
-      "title": "…And Justice For All",
-      "artist": "Metallica",
-      "album": "…And Justice For All",
-      "played_at": "2026-11-01 20:01:35"
+      "title": "Halt The Wheel Of Timeless Change",
+      "artist": "Abigor",
+      "album": "Taphonomia Aeternitatis (Gesänge im Leichenlicht der Welt)",
+      "played_at": "2026-11-05 08:42:41"
     },
     {
-      "title": "One",
-      "artist": "Metallica",
-      "album": "…And Justice For All",
-      "played_at": "2026-11-01 17:35:44"
-    },
-    {
-      "title": "Eye Of The Beholder",
-      "artist": "Metallica",
-      "album": "…And Justice For All",
-      "played_at": "2026-11-01 17:28:04"
-    },
-    {
-      "title": "…And Justice For All",
-      "artist": "Metallica",
-      "album": "…And Justice For All",
-      "played_at": "2026-11-01 17:20:47"
-    },
-    {
-      "title": "Blackened",
-      "artist": "Metallica",
-      "album": "…And Justice For All",
-      "played_at": "2026-11-01 17:11:50"
-    },
-    {
-      "title": "For Whom The Bell Tolls",
-      "artist": "Metallica",
-      "album": "Ride The Lightning",
-      "played_at": "2026-11-01 17:00:38"
-    },
-    {
-      "title": "Ride The Lightning",
-      "artist": "Metallica",
-      "album": "Ride The Lightning",
-      "played_at": "2026-11-01 16:54:43"
-    },
-    {
-      "title": "Fight Fire With Fire",
-      "artist": "Metallica",
-      "album": "Ride The Lightning",
-      "played_at": "2026-11-01 16:49:00"
-    },
-    {
-      "title": "Mono",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-01 16:42:02"
-    },
-    {
-      "title": "Where the Goth Girls At?",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-01 16:38:36"
-    },
-    {
-      "title": "Insignificant Other",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-01 16:33:55"
-    },
-    {
-      "title": "It’s Only Love",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-01 16:29:25"
+      "title": "Wladimir's March",
+      "artist": "Vlad Tepes",
+      "album": "March to the Black Holocaust",
+      "played_at": "2026-11-05 08:35:52"
     },
     {
       "title": "Run Away From the Mob",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-01 16:13:13"
+      "played_at": "2026-11-05 00:11:33"
     },
     {
       "title": "Phantom Limb",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-01 16:08:46"
+      "played_at": "2026-11-05 00:07:07"
     },
     {
       "title": "Easy Street",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-01 16:04:22"
+      "played_at": "2026-11-05 00:02:43"
     },
     {
       "title": "Sunday",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-01 15:59:59"
+      "played_at": "2026-11-04 23:58:20"
     },
     {
       "title": "From the Cliff",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-01 15:56:02"
+      "played_at": "2026-11-04 23:54:22"
     },
     {
       "title": "Mono",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-01 15:52:53"
+      "played_at": "2026-11-04 23:51:14"
     },
     {
       "title": "Where the Goth Girls At?",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-01 15:49:28"
+      "played_at": "2026-11-04 23:47:49"
     },
     {
       "title": "Insignificant Other",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-01 15:44:47"
+      "played_at": "2026-11-04 23:43:08"
     },
     {
-      "title": "Sola Gratia (Part 2)",
-      "artist": "Jozef Van Wissen / SQÜRL",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 14:06:41"
+      "title": "It’s Only Love",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-04 23:38:37"
     },
     {
-      "title": "In Templum Dei",
-      "artist": "Jozef Van Wissen",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 14:03:45"
+      "title": "La terre ne cessera de se consumer.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-11-04 09:01:15"
     },
     {
-      "title": "Streets of Tangier",
-      "artist": "Jozef Van Wissen / SQÜRL",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 14:02:10"
+      "title": "Par le jugement causé par ses poisons.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-11-04 08:55:35"
     },
     {
-      "title": "Spooky Action at a Distance",
-      "artist": "SQÜRL",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 13:58:36"
+      "title": "Unanswered Thrice",
+      "artist": "Misotheist",
+      "album": "De Pinte",
+      "played_at": "2026-11-03 19:14:04"
     },
     {
-      "title": "Please Feel Free to Piss in the Garden",
-      "artist": "SQÜRL",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 13:54:16"
+      "title": "Insignificant Other",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-03 12:48:22"
     },
     {
-      "title": "Diamond Star",
-      "artist": "SQÜRL",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 13:53:02"
+      "title": "It’s Only Love",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-03 12:42:28"
     },
     {
-      "title": "The Taste of Blood",
-      "artist": "Jozef Van Wissen / SQÜRL",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 13:47:14"
-    },
-    {
-      "title": "Sola Gratia (Part 1)",
-      "artist": "Jozef Van Wissen / SQÜRL",
-      "album": "Only Lovers Left Alive",
-      "played_at": "2026-11-01 13:43:49"
+      "title": "Ov Fire And The Void",
+      "artist": "Behemoth",
+      "album": "Evangelion",
+      "played_at": "2026-11-03 09:12:39"
     }
   ]
 }
