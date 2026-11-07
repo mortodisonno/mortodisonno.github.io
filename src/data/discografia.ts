@@ -15,6 +15,19 @@ export interface Album {
 
 export const albums: Album[] = [
   {
+    title: 'the light that bleeds',
+    anno: 2026,
+    tipo: 'EP',
+    etichetta: 'søvn VI',
+    cover: 'sovn/sovn-vi/cover.png' ,
+    dir: 'sovn/sovn-vi',
+    tracks: [
+      { file: '01-the-light-that-bleeds.mp3', title: 'the light that bleeds out' },
+      { file: '02-the-light-that-bleeds.mp3', title: 'the light that bleeds in' },
+    ],
+  },
+  
+  {
     title: 'Αἰώνιον ἀνάπαυσιν δός αὐτοῖς, ὦ Δαίμονα / καὶ λάμψει αὐτοῖς σκότος αἰώνιον',
     anno: 2026,
     tipo: 'EP',
