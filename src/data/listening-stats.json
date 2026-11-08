@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T22:00+01:00",
+  "generated_at": "2026-11-08T23:00+01:00",
   "totals": {
-    "plays": 3946,
-    "hours": 340.1,
-    "artists": 290
+    "plays": 4021,
+    "hours": 347.2,
+    "artists": 295
   },
   "top_tracks": [
     {
@@ -127,6 +127,18 @@
       "plays": 9
     },
     {
+      "title": "Insignificant Other",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "plays": 9
+    },
+    {
+      "title": "The Evil Has Landed",
+      "artist": "Queens of the Stone Age",
+      "album": "Villains",
+      "plays": 9
+    },
+    {
       "title": "Can You Feel My Heart",
       "artist": "Fontaines D.C.",
       "album": "Can You Feel My Heart (triple j Like A Version)",
@@ -143,18 +155,6 @@
       "artist": "Michael Gira",
       "album": "I Am Not Insane",
       "plays": 8
-    },
-    {
-      "title": "The Evil Has Landed",
-      "artist": "Queens of the Stone Age",
-      "album": "Villains",
-      "plays": 8
-    },
-    {
-      "title": "Unanswered Thrice",
-      "artist": "Misotheist",
-      "album": "De Pinte",
-      "plays": 8
     }
   ],
   "top_artists": [
@@ -168,15 +168,15 @@
     },
     {
       "artist": "Swans",
-      "plays": 131
+      "plays": 142
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "plays": 109
     },
     {
       "artist": "Wolves in the Throne Room",
       "plays": 108
-    },
-    {
-      "artist": "Fontaines D.C.",
-      "plays": 102
     },
     {
       "artist": "Darkthrone",
@@ -184,7 +184,7 @@
     },
     {
       "artist": "Chat Pile",
-      "plays": 93
+      "plays": 94
     },
     {
       "artist": "Michael Gira",
@@ -200,7 +200,7 @@
     },
     {
       "artist": "Queens of the Stone Age",
-      "plays": 66
+      "plays": 74
     },
     {
       "artist": "The Beatles",
@@ -215,6 +215,10 @@
       "plays": 58
     },
     {
+      "artist": "Depeche Mode",
+      "plays": 56
+    },
+    {
       "artist": "†††",
       "plays": 56
     },
@@ -225,10 +229,6 @@
     {
       "artist": "Botanist",
       "plays": 52
-    },
-    {
-      "artist": "Depeche Mode",
-      "plays": 47
     },
     {
       "artist": "Son Lux",
@@ -243,6 +243,10 @@
       "plays": 42
     },
     {
+      "artist": "Behemoth",
+      "plays": 38
+    },
+    {
       "artist": "Cult of Luna",
       "plays": 38
     },
@@ -252,10 +256,6 @@
     },
     {
       "artist": "Boards of Canada",
-      "plays": 37
-    },
-    {
-      "artist": "The Kilimanjaro Darkjazz Ensemble",
       "plays": 37
     }
   ],
@@ -288,12 +288,17 @@
     {
       "album": "Perfecth",
       "artist": "Queens of the Stone Age",
-      "plays": 50
+      "plays": 57
     },
     {
       "album": "Goodnight, God Bless, I Love U, Delete.",
       "artist": "†††",
       "plays": 49
+    },
+    {
+      "album": "The Beggar",
+      "artist": "Swans",
+      "plays": 44
     },
     {
       "album": "Requiem",
@@ -319,11 +324,6 @@
       "album": "Mezmerize",
       "artist": "System Of A Down",
       "plays": 35
-    },
-    {
-      "album": "The Beggar",
-      "artist": "Swans",
-      "plays": 34
     },
     {
       "album": "IGOR",
@@ -413,189 +413,189 @@
     },
     {
       "month": "2026-11",
-      "plays": 114
+      "plays": 189
     }
   ],
   "recent": [
     {
-      "title": "Ye Entrancemperium",
-      "artist": "Emperor",
-      "album": "Anthems To The Welkin At Dusk",
-      "played_at": "2026-11-06 21:59:34"
+      "title": "Wah-Wah",
+      "artist": "George Harrison",
+      "album": "All Things Must Pass",
+      "played_at": "2026-11-08 18:12:07"
     },
     {
-      "title": "A Superior Lament",
-      "artist": "Panopticon",
-      "album": "Autumn Eternal",
-      "played_at": "2026-11-06 20:11:57"
+      "title": "I'd Have You Anytime",
+      "artist": "George Harrison",
+      "album": "All Things Must Pass",
+      "played_at": "2026-11-08 18:07:45"
     },
     {
-      "title": "Pale Ghosts",
-      "artist": "Panopticon",
-      "album": "Autumn Eternal",
-      "played_at": "2026-11-06 20:00:56"
+      "title": "Commodore Lothan",
+      "artist": "El Khat",
+      "album": "Mute",
+      "played_at": "2026-11-08 17:16:02"
     },
     {
-      "title": "Sleep to the Sound of the Waves Crashing",
-      "artist": "Panopticon",
-      "album": "Autumn Eternal",
-      "played_at": "2026-11-06 19:52:42"
+      "title": "Tabl Yamani",
+      "artist": "El Khat",
+      "album": "Mute",
+      "played_at": "2026-11-08 17:12:57"
     },
     {
-      "title": "Oaks Ablaze",
-      "artist": "Panopticon",
-      "album": "Autumn Eternal",
-      "played_at": "2026-11-06 19:44:01"
+      "title": "La waLa",
+      "artist": "El Khat",
+      "album": "Mute",
+      "played_at": "2026-11-08 17:09:51"
     },
     {
-      "title": "Autumn Eternal",
-      "artist": "Panopticon",
-      "album": "Autumn Eternal",
-      "played_at": "2026-11-06 19:35:17"
+      "title": "Tislami Tislami",
+      "artist": "El Khat",
+      "album": "Mute",
+      "played_at": "2026-11-08 17:05:18"
     },
     {
-      "title": "Into the North Woods",
-      "artist": "Panopticon",
-      "album": "Autumn Eternal",
-      "played_at": "2026-11-06 19:28:12"
+      "title": "Dinosorat Tahtafil Bel Kuwaikeb (Asteroid!)",
+      "artist": "Kinematik",
+      "album": "Ensemble 1: Al Jadi",
+      "played_at": "2026-11-08 17:02:20"
     },
     {
-      "title": "Tamarack’s Gold Returns",
-      "artist": "Panopticon",
-      "album": "Autumn Eternal",
-      "played_at": "2026-11-06 19:21:51"
+      "title": "Rings",
+      "artist": "SANAM",
+      "album": "Aykathani Malakon",
+      "played_at": "2026-11-08 00:12:40"
     },
     {
-      "title": "affaiblie de beauté",
-      "artist": "coffret de bijoux",
-      "album": "Je t'aimerais, bientôt",
-      "played_at": "2026-11-06 08:46:14"
+      "title": "Mouathibatti",
+      "artist": "SANAM",
+      "album": "Aykathani Malakon",
+      "played_at": "2026-11-08 00:06:14"
     },
     {
-      "title": "Marianne",
-      "artist": "Fontaines D.C.",
-      "album": "Dopamine Chamber",
-      "played_at": "2026-11-05 21:08:14"
+      "title": "94",
+      "artist": "SANAM",
+      "album": "Aykathani Malakon",
+      "played_at": "2026-11-08 00:01:27"
     },
     {
-      "title": "Six Shot Morning",
-      "artist": "Fontaines D.C.",
-      "album": "Dopamine Chamber",
-      "played_at": "2026-11-05 21:03:50"
+      "title": "Oulo La Emmo",
+      "artist": "SANAM",
+      "album": "Aykathani Malakon",
+      "played_at": "2026-11-07 23:57:26"
     },
     {
-      "title": "All Nightmare Long",
-      "artist": "Metallica",
-      "album": "Death Magnetic",
-      "played_at": "2026-11-05 18:35:25"
+      "title": "Shajar Al-Touti",
+      "artist": "SANAM",
+      "album": "Aykathani Malakon",
+      "played_at": "2026-11-07 23:54:36"
     },
     {
-      "title": "Untitled (Devour All the Living Things I)",
-      "artist": "Rhinocervs",
-      "album": "Devour All the Living Things",
-      "played_at": "2026-11-05 08:52:08"
+      "title": "Ya Nass",
+      "artist": "SANAM",
+      "album": "Aykathani Malakon",
+      "played_at": "2026-11-07 23:50:27"
     },
     {
-      "title": "Halt The Wheel Of Timeless Change",
-      "artist": "Abigor",
-      "album": "Taphonomia Aeternitatis (Gesänge im Leichenlicht der Welt)",
-      "played_at": "2026-11-05 08:42:41"
+      "title": "Ayouha Al-Taiin Fi Al-Mawt",
+      "artist": "SANAM",
+      "album": "Aykathani Malakon",
+      "played_at": "2026-11-07 23:45:30"
     },
     {
-      "title": "Wladimir's March",
-      "artist": "Vlad Tepes",
-      "album": "March to the Black Holocaust",
-      "played_at": "2026-11-05 08:35:52"
+      "title": "Sametou Sawtan",
+      "artist": "SANAM",
+      "album": "Sametou Sawtan",
+      "played_at": "2026-11-07 23:39:52"
     },
     {
-      "title": "Run Away From the Mob",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-05 00:11:33"
+      "title": "Tatayoum",
+      "artist": "SANAM",
+      "album": "Sametou Sawtan",
+      "played_at": "2026-11-07 23:37:01"
     },
     {
-      "title": "Phantom Limb",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-05 00:07:07"
+      "title": "Sayl Damei",
+      "artist": "SANAM",
+      "album": "Sametou Sawtan",
+      "played_at": "2026-11-07 23:32:44"
     },
     {
-      "title": "Easy Street",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-05 00:02:43"
+      "title": "Hamam",
+      "artist": "SANAM",
+      "album": "Sametou Sawtan",
+      "played_at": "2026-11-07 23:24:37"
     },
     {
-      "title": "Sunday",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-04 23:58:20"
+      "title": "Hadikat Al Ams",
+      "artist": "SANAM",
+      "album": "Sametou Sawtan",
+      "played_at": "2026-11-07 22:58:01"
     },
     {
-      "title": "From the Cliff",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-04 23:54:22"
+      "title": "Habibon",
+      "artist": "SANAM",
+      "album": "Sametou Sawtan",
+      "played_at": "2026-11-07 22:52:07"
+    },
+    {
+      "title": "Goblin",
+      "artist": "SANAM",
+      "album": "Sametou Sawtan",
+      "played_at": "2026-11-07 22:47:29"
+    },
+    {
+      "title": "Harik",
+      "artist": "SANAM",
+      "album": "Sametou Sawtan",
+      "played_at": "2026-11-07 22:43:06"
+    },
+    {
+      "title": "Bell",
+      "artist": "SANAM",
+      "album": "Aykathani Malakon",
+      "played_at": "2026-11-07 22:37:05"
+    },
+    {
+      "title": "Aykathani Malakon",
+      "artist": "SANAM",
+      "album": "Aykathani Malakon",
+      "played_at": "2026-11-07 22:32:33"
+    },
+    {
+      "title": "Perpetual Black Second",
+      "artist": "Meshuggah",
+      "album": "Nothing",
+      "played_at": "2026-11-07 21:21:48"
+    },
+    {
+      "title": "Rational Gaze",
+      "artist": "Meshuggah",
+      "album": "Nothing",
+      "played_at": "2026-11-07 21:16:44"
+    },
+    {
+      "title": "Stengah",
+      "artist": "Meshuggah",
+      "album": "Nothing",
+      "played_at": "2026-11-07 21:11:10"
+    },
+    {
+      "title": "With Spell of Inferno (Mefisto)",
+      "artist": "Behemoth",
+      "album": "And the Forest Dream Eternally (Remastered)",
+      "played_at": "2026-11-07 19:32:10"
+    },
+    {
+      "title": "Forgotten Empire of Dark Witchcraft",
+      "artist": "Behemoth",
+      "album": "And the Forest Dream Eternally (Remastered)",
+      "played_at": "2026-11-07 19:27:43"
     },
     {
       "title": "Mono",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-04 23:51:14"
-    },
-    {
-      "title": "Where the Goth Girls At?",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-04 23:47:49"
-    },
-    {
-      "title": "Insignificant Other",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-04 23:43:08"
-    },
-    {
-      "title": "It’s Only Love",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-04 23:38:37"
-    },
-    {
-      "title": "La terre ne cessera de se consumer.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-11-04 09:01:15"
-    },
-    {
-      "title": "Par le jugement causé par ses poisons.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-11-04 08:55:35"
-    },
-    {
-      "title": "Unanswered Thrice",
-      "artist": "Misotheist",
-      "album": "De Pinte",
-      "played_at": "2026-11-03 19:14:04"
-    },
-    {
-      "title": "Insignificant Other",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-03 12:48:22"
-    },
-    {
-      "title": "It’s Only Love",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-03 12:42:28"
-    },
-    {
-      "title": "Ov Fire And The Void",
-      "artist": "Behemoth",
-      "album": "Evangelion",
-      "played_at": "2026-11-03 09:12:39"
+      "played_at": "2026-11-07 19:16:46"
     }
   ]
 }
