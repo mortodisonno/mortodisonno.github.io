@@ -28,15 +28,15 @@ export const albums: Album[] = [
   },
   
   {
-    title: 'Αἰώνιον ἀνάπαυσιν δός αὐτοῖς, ὦ Δαίμονα / καὶ λάμψει αὐτοῖς σκότος αἰώνιον',
+    title: 'aionion anapausin dos autois, o daimona, kai lampsei autois skotos aionion',
     anno: 2026,
     tipo: 'EP',
     etichetta: 'søvn V',
     cover: 'sovn/sovn-v/cover.jpg' ,
     dir: 'sovn/sovn-v',
     tracks: [
-      { file: '01-aionion-anapausin-dos-autois-o-daimona.mp3', title: 'Αἰώνιον ἀνάπαυσιν δός αὐτοῖς, ὦ Δαίμονα' },
-      { file: '02-kai-lampsei-autois-skotos-aionion.mp3', title: 'καὶ λάμψει αὐτοῖς σκότος αἰώνιον' },
+      { file: '01-aionion-anapausin-dos-autois-o-daimona.mp3', title: 'aionion anapausin dos autois, o daimona' },
+      { file: '02-kai-lampsei-autois-skotos-aionion.mp3', title: 'kai lampsei autois skotos aionion' },
     ],
   },
 
@@ -82,7 +82,7 @@ export const albums: Album[] = [
 
 
 {
-  title: 'Contralba',
+  title: 'contralba',
   anno: 2022,
   tipo: 'single w. GeloGelido, CIVUTA',
   cover: 'contralba/cover.jpg',
