@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T23:00+01:00",
+  "generated_at": "2026-11-14T23:00+01:00",
   "totals": {
-    "plays": 4021,
-    "hours": 347.2,
-    "artists": 295
+    "plays": 3672,
+    "hours": 319.6,
+    "artists": 271
   },
   "top_tracks": [
     {
@@ -103,6 +103,12 @@
       "plays": 10
     },
     {
+      "title": "Insignificant Other",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "plays": 10
+    },
+    {
       "title": "Once I Had a Sweetheart",
       "artist": "The Body • BIG • BRAVE",
       "album": "Leaving None but Small Birds",
@@ -121,13 +127,19 @@
       "plays": 10
     },
     {
+      "title": "Estuary",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "plays": 9
+    },
+    {
       "title": "I: The Weapon",
       "artist": "Cult of Luna",
       "album": "Vertikal",
       "plays": 9
     },
     {
-      "title": "Insignificant Other",
+      "title": "Mono",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
       "plays": 9
@@ -139,22 +151,10 @@
       "plays": 9
     },
     {
-      "title": "Can You Feel My Heart",
-      "artist": "Fontaines D.C.",
-      "album": "Can You Feel My Heart (triple j Like A Version)",
-      "plays": 8
-    },
-    {
-      "title": "Desire",
-      "artist": "Fontaines D.C.",
-      "album": "Romance",
-      "plays": 8
-    },
-    {
-      "title": "Eden Prison (This Way)",
-      "artist": "Michael Gira",
-      "album": "I Am Not Insane",
-      "plays": 8
+      "title": "Where the Goth Girls At?",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "plays": 9
     }
   ],
   "top_artists": [
@@ -163,20 +163,20 @@
       "plays": 170
     },
     {
-      "artist": "Nine Inch Nails",
-      "plays": 142
-    },
-    {
       "artist": "Swans",
-      "plays": 142
-    },
-    {
-      "artist": "Fontaines D.C.",
-      "plays": 109
+      "plays": 145
     },
     {
       "artist": "Wolves in the Throne Room",
-      "plays": 108
+      "plays": 122
+    },
+    {
+      "artist": "Nine Inch Nails",
+      "plays": 113
+    },
+    {
+      "artist": "Michael Gira",
+      "plays": 98
     },
     {
       "artist": "Darkthrone",
@@ -187,48 +187,40 @@
       "plays": 94
     },
     {
-      "artist": "Michael Gira",
-      "plays": 91
+      "artist": "Fontaines D.C.",
+      "plays": 90
     },
     {
       "artist": "The Desert Sessions",
       "plays": 88
     },
     {
+      "artist": "Queens of the Stone Age",
+      "plays": 80
+    },
+    {
       "artist": "The Body • BIG • BRAVE",
       "plays": 78
     },
     {
-      "artist": "Queens of the Stone Age",
-      "plays": 74
+      "artist": "Chelsea Wolfe",
+      "plays": 67
     },
     {
       "artist": "The Beatles",
       "plays": 66
     },
     {
-      "artist": "Chelsea Wolfe",
-      "plays": 65
-    },
-    {
-      "artist": "System Of A Down",
-      "plays": 58
-    },
-    {
-      "artist": "Depeche Mode",
-      "plays": 56
-    },
-    {
       "artist": "†††",
       "plays": 56
     },
     {
-      "artist": "Aphex Twin",
-      "plays": 53
-    },
-    {
       "artist": "Botanist",
       "plays": 52
+    },
+    {
+      "artist": "Depeche Mode",
+      "plays": 47
     },
     {
       "artist": "Son Lux",
@@ -241,6 +233,10 @@
     {
       "artist": "Ulver",
       "plays": 42
+    },
+    {
+      "artist": "Bob Dylan",
+      "plays": 39
     },
     {
       "artist": "Behemoth",
@@ -256,6 +252,10 @@
     },
     {
       "artist": "Boards of Canada",
+      "plays": 37
+    },
+    {
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
       "plays": 37
     }
   ],
@@ -281,14 +281,14 @@
       "plays": 78
     },
     {
-      "album": "Romance",
-      "artist": "Fontaines D.C.",
+      "album": "Perfecth",
+      "artist": "Queens of the Stone Age",
       "plays": 63
     },
     {
-      "album": "Perfecth",
-      "artist": "Queens of the Stone Age",
-      "plays": 57
+      "album": "Romance",
+      "artist": "Fontaines D.C.",
+      "plays": 63
     },
     {
       "album": "Goodnight, God Bless, I Love U, Delete.",
@@ -321,9 +321,9 @@
       "plays": 35
     },
     {
-      "album": "Mezmerize",
-      "artist": "System Of A Down",
-      "plays": 35
+      "album": "Estuary",
+      "artist": "Wolves in the Throne Room",
+      "plays": 31
     },
     {
       "album": "IGOR",
@@ -389,213 +389,213 @@
   "monthly": [
     {
       "month": "2026-05",
-      "plays": 126
+      "plays": 118
     },
     {
       "month": "2026-06",
-      "plays": 631
+      "plays": 579
     },
     {
       "month": "2026-07",
-      "plays": 594
+      "plays": 545
     },
     {
       "month": "2026-08",
-      "plays": 683
+      "plays": 580
     },
     {
       "month": "2026-09",
-      "plays": 704
+      "plays": 618
     },
     {
       "month": "2026-10",
-      "plays": 1094
+      "plays": 977
     },
     {
       "month": "2026-11",
-      "plays": 189
+      "plays": 255
     }
   ],
   "recent": [
     {
-      "title": "Wah-Wah",
-      "artist": "George Harrison",
-      "album": "All Things Must Pass",
-      "played_at": "2026-11-08 18:12:07"
+      "title": "The Golden Boy That Was Swallo",
+      "artist": "Swans",
+      "album": "Love Of life",
+      "played_at": "2026-11-14 23:00:00"
     },
     {
-      "title": "I'd Have You Anytime",
-      "artist": "George Harrison",
-      "album": "All Things Must Pass",
-      "played_at": "2026-11-08 18:07:45"
+      "title": "Love Of Life",
+      "artist": "Swans",
+      "album": "Love Of life",
+      "played_at": "2026-11-14 22:55:58"
     },
     {
-      "title": "Commodore Lothan",
-      "artist": "El Khat",
-      "album": "Mute",
-      "played_at": "2026-11-08 17:16:02"
+      "title": "[---]",
+      "artist": "Swans",
+      "album": "Love Of life",
+      "played_at": "2026-11-14 22:55:11"
     },
     {
-      "title": "Tabl Yamani",
-      "artist": "El Khat",
-      "album": "Mute",
-      "played_at": "2026-11-08 17:12:57"
+      "title": "Crooked Man",
+      "artist": "Michael Gira",
+      "album": "I Am Singing To You From My Room",
+      "played_at": "2026-11-14 22:55:08"
     },
     {
-      "title": "La waLa",
-      "artist": "El Khat",
-      "album": "Mute",
-      "played_at": "2026-11-08 17:09:51"
+      "title": "Rosalie And Juliette",
+      "artist": "Michael Gira",
+      "album": "I Am Singing To You From My Room",
+      "played_at": "2026-11-14 22:54:36"
     },
     {
-      "title": "Tislami Tislami",
-      "artist": "El Khat",
-      "album": "Mute",
-      "played_at": "2026-11-08 17:05:18"
+      "title": "No Words/No Title 2",
+      "artist": "Michael Gira",
+      "album": "I Am Singing To You From My Room",
+      "played_at": "2026-11-14 22:54:31"
     },
     {
-      "title": "Dinosorat Tahtafil Bel Kuwaikeb (Asteroid!)",
-      "artist": "Kinematik",
-      "album": "Ensemble 1: Al Jadi",
-      "played_at": "2026-11-08 17:02:20"
+      "title": "No Words/No Title",
+      "artist": "Michael Gira",
+      "album": "I Am Singing To You From My Room",
+      "played_at": "2026-11-14 22:52:54"
     },
     {
-      "title": "Rings",
-      "artist": "SANAM",
-      "album": "Aykathani Malakon",
-      "played_at": "2026-11-08 00:12:40"
+      "title": "Destroyer",
+      "artist": "Michael Gira",
+      "album": "I Am Singing To You From My Room",
+      "played_at": "2026-11-14 22:47:34"
     },
     {
-      "title": "Mouathibatti",
-      "artist": "SANAM",
-      "album": "Aykathani Malakon",
-      "played_at": "2026-11-08 00:06:14"
+      "title": "My Sister Said",
+      "artist": "Michael Gira",
+      "album": "I Am Singing To You From My Room",
+      "played_at": "2026-11-14 22:43:05"
     },
     {
-      "title": "94",
-      "artist": "SANAM",
-      "album": "Aykathani Malakon",
-      "played_at": "2026-11-08 00:01:27"
+      "title": "Jackie's Spine",
+      "artist": "Michael Gira",
+      "album": "I Am Singing To You From My Room",
+      "played_at": "2026-11-14 22:38:29"
     },
     {
-      "title": "Oulo La Emmo",
-      "artist": "SANAM",
-      "album": "Aykathani Malakon",
-      "played_at": "2026-11-07 23:57:26"
+      "title": "Ghosts Among the Obelisks",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 20:10:04"
     },
     {
-      "title": "Shajar Al-Touti",
-      "artist": "SANAM",
-      "album": "Aykathani Malakon",
-      "played_at": "2026-11-07 23:54:36"
+      "title": "The Orca Cliffs",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 20:02:07"
     },
     {
-      "title": "Ya Nass",
-      "artist": "SANAM",
-      "album": "Aykathani Malakon",
-      "played_at": "2026-11-07 23:50:27"
+      "title": "Foretold in Reflections",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 19:52:16"
     },
     {
-      "title": "Ayouha Al-Taiin Fi Al-Mawt",
-      "artist": "SANAM",
-      "album": "Aykathani Malakon",
-      "played_at": "2026-11-07 23:45:30"
+      "title": "Knights of Tiamat",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 19:43:39"
     },
     {
-      "title": "Sametou Sawtan",
-      "artist": "SANAM",
-      "album": "Sametou Sawtan",
-      "played_at": "2026-11-07 23:39:52"
+      "title": "Estuary",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 19:36:05"
     },
     {
-      "title": "Tatayoum",
-      "artist": "SANAM",
-      "album": "Sametou Sawtan",
-      "played_at": "2026-11-07 23:37:01"
+      "title": "Par le jugement causé par ses poisons.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-11-14 18:53:08"
     },
     {
-      "title": "Sayl Damei",
-      "artist": "SANAM",
-      "album": "Sametou Sawtan",
-      "played_at": "2026-11-07 23:32:44"
+      "title": "Et in pulverem mortis deduxisti me.",
+      "artist": "VI",
+      "album": "De Praestigiis Angelorum",
+      "played_at": "2026-11-14 18:47:17"
     },
     {
-      "title": "Hamam",
-      "artist": "SANAM",
-      "album": "Sametou Sawtan",
-      "played_at": "2026-11-07 23:24:37"
+      "title": "Easy Street",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-14 18:41:55"
     },
     {
-      "title": "Hadikat Al Ams",
-      "artist": "SANAM",
-      "album": "Sametou Sawtan",
-      "played_at": "2026-11-07 22:58:01"
+      "title": "Sunday",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-14 18:38:04"
     },
     {
-      "title": "Habibon",
-      "artist": "SANAM",
-      "album": "Sametou Sawtan",
-      "played_at": "2026-11-07 22:52:07"
-    },
-    {
-      "title": "Goblin",
-      "artist": "SANAM",
-      "album": "Sametou Sawtan",
-      "played_at": "2026-11-07 22:47:29"
-    },
-    {
-      "title": "Harik",
-      "artist": "SANAM",
-      "album": "Sametou Sawtan",
-      "played_at": "2026-11-07 22:43:06"
-    },
-    {
-      "title": "Bell",
-      "artist": "SANAM",
-      "album": "Aykathani Malakon",
-      "played_at": "2026-11-07 22:37:05"
-    },
-    {
-      "title": "Aykathani Malakon",
-      "artist": "SANAM",
-      "album": "Aykathani Malakon",
-      "played_at": "2026-11-07 22:32:33"
-    },
-    {
-      "title": "Perpetual Black Second",
-      "artist": "Meshuggah",
-      "album": "Nothing",
-      "played_at": "2026-11-07 21:21:48"
-    },
-    {
-      "title": "Rational Gaze",
-      "artist": "Meshuggah",
-      "album": "Nothing",
-      "played_at": "2026-11-07 21:16:44"
-    },
-    {
-      "title": "Stengah",
-      "artist": "Meshuggah",
-      "album": "Nothing",
-      "played_at": "2026-11-07 21:11:10"
-    },
-    {
-      "title": "With Spell of Inferno (Mefisto)",
-      "artist": "Behemoth",
-      "album": "And the Forest Dream Eternally (Remastered)",
-      "played_at": "2026-11-07 19:32:10"
-    },
-    {
-      "title": "Forgotten Empire of Dark Witchcraft",
-      "artist": "Behemoth",
-      "album": "And the Forest Dream Eternally (Remastered)",
-      "played_at": "2026-11-07 19:27:43"
+      "title": "From the Cliff",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-14 18:33:09"
     },
     {
       "title": "Mono",
       "artist": "Queens of the Stone Age",
       "album": "Perfecth",
-      "played_at": "2026-11-07 19:16:46"
+      "played_at": "2026-11-14 18:30:11"
+    },
+    {
+      "title": "Where the Goth Girls At?",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-14 18:26:52"
+    },
+    {
+      "title": "Insignificant Other",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "played_at": "2026-11-14 18:23:23"
+    },
+    {
+      "title": "Wretched Spirits, Land of Light",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 18:16:24"
+    },
+    {
+      "title": "Ghosts Among the Obelisks",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 18:10:10"
+    },
+    {
+      "title": "The Orca Cliffs",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 18:01:30"
+    },
+    {
+      "title": "Foretold in Reflections",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 17:53:37"
+    },
+    {
+      "title": "Knights of Tiamat",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 17:43:43"
+    },
+    {
+      "title": "Estuary",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 17:35:06"
+    },
+    {
+      "title": "Estuary",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
+      "played_at": "2026-11-14 17:21:07"
     }
   ]
 }
