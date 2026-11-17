@@ -1,33 +1,69 @@
 {
-  "generated_at": "2026-11-14T23:00+01:00",
+  "generated_at": "2026-11-17T14:00+01:00",
   "totals": {
-    "plays": 3672,
-    "hours": 319.6,
-    "artists": 271
+    "plays": 3806,
+    "hours": 330.8,
+    "artists": 275
   },
   "top_tracks": [
     {
       "title": "Blackest Crow",
       "artist": "The Body • BIG • BRAVE",
       "album": "Leaving None but Small Birds",
-      "plays": 15
+      "plays": 16
     },
     {
       "title": "Little Mouth",
       "artist": "Michael Gira",
       "album": "I Am Not Insane",
-      "plays": 13
+      "plays": 14
     },
     {
       "title": "Oh Sinner",
       "artist": "The Body • BIG • BRAVE",
       "album": "Leaving None but Small Birds",
-      "plays": 13
+      "plays": 14
+    },
+    {
+      "title": "Babes in the Woods",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 11
+    },
+    {
+      "title": "Black Is the Colour",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 11
+    },
+    {
+      "title": "Eden Prison (That Way)",
+      "artist": "Michael Gira",
+      "album": "I Am Not Insane",
+      "plays": 11
+    },
+    {
+      "title": "Hard Times",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 11
+    },
+    {
+      "title": "Once I Had a Sweetheart",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
+      "plays": 11
     },
     {
       "title": "Over fjell og gjennom torner",
       "artist": "Darkthrone",
       "album": "Transilvanian Hunger",
+      "plays": 11
+    },
+    {
+      "title": "Polly Gosford",
+      "artist": "The Body • BIG • BRAVE",
+      "album": "Leaving None but Small Birds",
       "plays": 11
     },
     {
@@ -55,39 +91,21 @@
       "plays": 10
     },
     {
-      "title": "Babes in the Woods",
-      "artist": "The Body • BIG • BRAVE",
-      "album": "Leaving None but Small Birds",
-      "plays": 10
-    },
-    {
-      "title": "Black Is the Colour",
-      "artist": "The Body • BIG • BRAVE",
-      "album": "Leaving None but Small Birds",
-      "plays": 10
-    },
-    {
-      "title": "Eden Prison (That Way)",
-      "artist": "Michael Gira",
-      "album": "I Am Not Insane",
-      "plays": 10
-    },
-    {
       "title": "En ås i dype skogen",
       "artist": "Darkthrone",
       "album": "Transilvanian Hunger",
       "plays": 10
     },
     {
-      "title": "Graven tåkeheimens saler",
-      "artist": "Darkthrone",
-      "album": "Transilvanian Hunger",
+      "title": "Estuary",
+      "artist": "Wolves in the Throne Room",
+      "album": "Estuary",
       "plays": 10
     },
     {
-      "title": "Hard Times",
-      "artist": "The Body • BIG • BRAVE",
-      "album": "Leaving None but Small Birds",
+      "title": "Graven tåkeheimens saler",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger",
       "plays": 10
     },
     {
@@ -109,27 +127,15 @@
       "plays": 10
     },
     {
-      "title": "Once I Had a Sweetheart",
-      "artist": "The Body • BIG • BRAVE",
-      "album": "Leaving None but Small Birds",
-      "plays": 10
-    },
-    {
-      "title": "Polly Gosford",
-      "artist": "The Body • BIG • BRAVE",
-      "album": "Leaving None but Small Birds",
-      "plays": 10
-    },
-    {
       "title": "Slottet i det fjerne",
       "artist": "Darkthrone",
       "album": "Transilvanian Hunger",
       "plays": 10
     },
     {
-      "title": "Estuary",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
+      "title": "Eden Prison (This Way)",
+      "artist": "Michael Gira",
+      "album": "I Am Not Insane",
       "plays": 9
     },
     {
@@ -149,12 +155,6 @@
       "artist": "Queens of the Stone Age",
       "album": "Villains",
       "plays": 9
-    },
-    {
-      "title": "Where the Goth Girls At?",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "plays": 9
     }
   ],
   "top_artists": [
@@ -164,11 +164,11 @@
     },
     {
       "artist": "Swans",
-      "plays": 145
+      "plays": 169
     },
     {
       "artist": "Wolves in the Throne Room",
-      "plays": 122
+      "plays": 128
     },
     {
       "artist": "Nine Inch Nails",
@@ -176,7 +176,7 @@
     },
     {
       "artist": "Michael Gira",
-      "plays": 98
+      "plays": 111
     },
     {
       "artist": "Darkthrone",
@@ -195,16 +195,16 @@
       "plays": 88
     },
     {
+      "artist": "The Body • BIG • BRAVE",
+      "plays": 85
+    },
+    {
       "artist": "Queens of the Stone Age",
       "plays": 80
     },
     {
-      "artist": "The Body • BIG • BRAVE",
-      "plays": 78
-    },
-    {
       "artist": "Chelsea Wolfe",
-      "plays": 67
+      "plays": 73
     },
     {
       "artist": "The Beatles",
@@ -215,12 +215,16 @@
       "plays": 56
     },
     {
+      "artist": "Bob Dylan",
+      "plays": 55
+    },
+    {
       "artist": "Botanist",
       "plays": 52
     },
     {
       "artist": "Depeche Mode",
-      "plays": 47
+      "plays": 49
     },
     {
       "artist": "Son Lux",
@@ -228,6 +232,10 @@
     },
     {
       "artist": "Deafheaven",
+      "plays": 43
+    },
+    {
+      "artist": "Cult of Luna",
       "plays": 42
     },
     {
@@ -235,15 +243,7 @@
       "plays": 42
     },
     {
-      "artist": "Bob Dylan",
-      "plays": 39
-    },
-    {
       "artist": "Behemoth",
-      "plays": 38
-    },
-    {
-      "artist": "Cult of Luna",
       "plays": 38
     },
     {
@@ -255,30 +255,30 @@
       "plays": 37
     },
     {
-      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "artist": "The Blood Mountain Black Metal Choir",
       "plays": 37
     }
   ],
   "top_albums": [
+    {
+      "album": "I Am Not Insane",
+      "artist": "Michael Gira",
+      "plays": 95
+    },
+    {
+      "album": "Leaving None but Small Birds",
+      "artist": "The Body • BIG • BRAVE",
+      "plays": 85
+    },
     {
       "album": "Transilvanian Hunger",
       "artist": "Darkthrone",
       "plays": 83
     },
     {
-      "album": "I Am Not Insane",
-      "artist": "Michael Gira",
-      "plays": 82
-    },
-    {
       "album": "Wow CD2",
       "artist": "Verdena",
       "plays": 81
-    },
-    {
-      "album": "Leaving None but Small Birds",
-      "artist": "The Body • BIG • BRAVE",
-      "plays": 78
     },
     {
       "album": "Perfecth",
@@ -323,7 +323,7 @@
     {
       "album": "Estuary",
       "artist": "Wolves in the Throne Room",
-      "plays": 31
+      "plays": 33
     },
     {
       "album": "IGOR",
@@ -356,6 +356,11 @@
       "plays": 27
     },
     {
+      "album": "White Light From the Mouth of Infinity",
+      "artist": "Swans",
+      "plays": 27
+    },
+    {
       "album": "Night Palace",
       "artist": "Mount Eerie",
       "plays": 26
@@ -378,11 +383,6 @@
     {
       "album": "Hail to the Thief (Collector's Edition)",
       "artist": "Radiohead",
-      "plays": 24
-    },
-    {
-      "album": "Scars on Broadway",
-      "artist": "Daron Malakian and Scars On Broadway",
       "plays": 24
     }
   ],
@@ -409,193 +409,193 @@
     },
     {
       "month": "2026-10",
-      "plays": 977
+      "plays": 975
     },
     {
       "month": "2026-11",
-      "plays": 255
+      "plays": 391
     }
   ],
   "recent": [
     {
-      "title": "The Golden Boy That Was Swallo",
+      "title": "Love Will Save You",
       "artist": "Swans",
-      "album": "Love Of life",
-      "played_at": "2026-11-14 23:00:00"
+      "album": "White Light From the Mouth of Infinity",
+      "played_at": "2026-11-16 18:48:39"
     },
     {
-      "title": "Love Of Life",
+      "title": "Will We Survive",
       "artist": "Swans",
-      "album": "Love Of life",
-      "played_at": "2026-11-14 22:55:58"
+      "album": "White Light From the Mouth of Infinity",
+      "played_at": "2026-11-16 18:42:32"
     },
     {
-      "title": "[---]",
+      "title": "Song for Dead Time",
       "artist": "Swans",
-      "album": "Love Of life",
-      "played_at": "2026-11-14 22:55:11"
+      "album": "White Light From the Mouth of Infinity",
+      "played_at": "2026-11-16 18:35:41"
     },
     {
-      "title": "Crooked Man",
-      "artist": "Michael Gira",
-      "album": "I Am Singing To You From My Room",
-      "played_at": "2026-11-14 22:55:08"
+      "title": "You Know Nothing",
+      "artist": "Swans",
+      "album": "White Light From the Mouth of Infinity",
+      "played_at": "2026-11-16 18:30:16"
     },
     {
-      "title": "Rosalie And Juliette",
-      "artist": "Michael Gira",
-      "album": "I Am Singing To You From My Room",
-      "played_at": "2026-11-14 22:54:36"
+      "title": "I Am the Sun",
+      "artist": "Swans",
+      "album": "Swans Are Dead",
+      "played_at": "2026-11-16 18:16:33"
     },
     {
-      "title": "No Words/No Title 2",
-      "artist": "Michael Gira",
-      "album": "I Am Singing To You From My Room",
-      "played_at": "2026-11-14 22:54:31"
+      "title": "But, What Ends When the Symbols Shatter?",
+      "artist": "Death In June",
+      "album": "But, What Ends When the Symbols Shatter?",
+      "played_at": "2026-11-16 17:23:32"
     },
     {
-      "title": "No Words/No Title",
-      "artist": "Michael Gira",
-      "album": "I Am Singing To You From My Room",
-      "played_at": "2026-11-14 22:52:54"
+      "title": "Ku Ku Ku",
+      "artist": "Death In June",
+      "album": "But, What Ends When the Symbols Shatter?",
+      "played_at": "2026-11-16 17:16:33"
     },
     {
-      "title": "Destroyer",
-      "artist": "Michael Gira",
-      "album": "I Am Singing To You From My Room",
-      "played_at": "2026-11-14 22:47:34"
+      "title": "The Giddy Edge of Light",
+      "artist": "Death In June",
+      "album": "But, What Ends When the Symbols Shatter?",
+      "played_at": "2026-11-16 17:14:38"
     },
     {
-      "title": "My Sister Said",
-      "artist": "Michael Gira",
-      "album": "I Am Singing To You From My Room",
-      "played_at": "2026-11-14 22:43:05"
+      "title": "Little Black Angel",
+      "artist": "Death In June",
+      "album": "But, What Ends When the Symbols Shatter?",
+      "played_at": "2026-11-16 17:04:09"
     },
     {
-      "title": "Jackie's Spine",
-      "artist": "Michael Gira",
-      "album": "I Am Singing To You From My Room",
-      "played_at": "2026-11-14 22:38:29"
+      "title": "Because of Him",
+      "artist": "Death In June",
+      "album": "But, What Ends When the Symbols Shatter?",
+      "played_at": "2026-11-16 16:59:49"
     },
     {
-      "title": "Ghosts Among the Obelisks",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 20:10:04"
+      "title": "The Mourner's Bench",
+      "artist": "Death In June",
+      "album": "But, What Ends When the Symbols Shatter?",
+      "played_at": "2026-11-16 16:56:01"
     },
     {
-      "title": "The Orca Cliffs",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 20:02:07"
+      "title": "He's Disabled",
+      "artist": "Death In June",
+      "album": "But, What Ends When the Symbols Shatter?",
+      "played_at": "2026-11-16 16:53:26"
     },
     {
-      "title": "Foretold in Reflections",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 19:52:16"
+      "title": "Death Is the Martyr of Beauty",
+      "artist": "Death In June",
+      "album": "But, What Ends When the Symbols Shatter?",
+      "played_at": "2026-11-16 16:49:15"
+    },
+    {
+      "title": "Cousins of the Antichrist",
+      "artist": "Chelsea Wolfe",
+      "album": "The Grime and the Glow",
+      "played_at": "2026-11-16 16:35:07"
+    },
+    {
+      "title": "Advice & Vices",
+      "artist": "Chelsea Wolfe",
+      "album": "The Grime and the Glow",
+      "played_at": "2026-11-16 16:32:22"
+    },
+    {
+      "title": "Daughter of Darkness",
+      "artist": "Natural Snow Buildings",
+      "album": "Daughter of Darkness",
+      "played_at": "2026-11-16 16:15:15"
+    },
+    {
+      "title": "Three Princes",
+      "artist": "Deafheaven",
+      "album": "At Work in the Fields of the Bomb",
+      "played_at": "2026-11-16 15:39:29"
     },
     {
       "title": "Knights of Tiamat",
       "artist": "Wolves in the Throne Room",
       "album": "Estuary",
-      "played_at": "2026-11-14 19:43:39"
+      "played_at": "2026-11-16 15:16:02"
     },
     {
       "title": "Estuary",
       "artist": "Wolves in the Throne Room",
       "album": "Estuary",
-      "played_at": "2026-11-14 19:36:05"
+      "played_at": "2026-11-16 15:07:29"
     },
     {
-      "title": "Par le jugement causé par ses poisons.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-11-14 18:53:08"
+      "title": "Peace in Death",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-11-16 14:53:46"
     },
     {
-      "title": "Et in pulverem mortis deduxisti me.",
-      "artist": "VI",
-      "album": "De Praestigiis Angelorum",
-      "played_at": "2026-11-14 18:47:17"
+      "title": "Boiled Angel",
+      "artist": "Dragged Into Sunlight",
+      "album": "Hatred for Mankind",
+      "played_at": "2026-11-16 14:29:53"
     },
     {
-      "title": "Easy Street",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-14 18:41:55"
+      "title": "Breach",
+      "artist": "Cult of Luna",
+      "album": "In the Shadow of Your Shadow",
+      "played_at": "2026-11-16 14:01:02"
     },
     {
-      "title": "Sunday",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-14 18:38:04"
+      "title": "Landby",
+      "artist": "Cult of Luna",
+      "album": "In the Shadow of Your Shadow",
+      "played_at": "2026-11-16 13:48:46"
     },
     {
-      "title": "From the Cliff",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-14 18:33:09"
+      "title": "Sadness Will Reign",
+      "artist": "Cult of Luna",
+      "album": "In the Shadow of Your Shadow",
+      "played_at": "2026-11-16 13:46:03"
     },
     {
-      "title": "Mono",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-14 18:30:11"
+      "title": "In the Shadow of Your Shadow",
+      "artist": "Cult of Luna",
+      "album": "In the Shadow of Your Shadow",
+      "played_at": "2026-11-16 13:41:16"
     },
     {
-      "title": "Where the Goth Girls At?",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-14 18:26:52"
+      "title": "Hymnal",
+      "artist": "The Blood Mountain Black Metal Choir",
+      "album": "Songs From a Dying Empire",
+      "played_at": "2026-11-16 12:37:10"
     },
     {
-      "title": "Insignificant Other",
-      "artist": "Queens of the Stone Age",
-      "album": "Perfecth",
-      "played_at": "2026-11-14 18:23:23"
+      "title": "Blue in Green (Take 3)",
+      "artist": "Bill Evans Trio",
+      "album": "Portrait in Jazz [2008 Remaster]",
+      "played_at": "2026-11-16 01:46:09"
     },
     {
-      "title": "Wretched Spirits, Land of Light",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 18:16:24"
+      "title": "Someday My Prince Will Come",
+      "artist": "Bill Evans Trio",
+      "album": "Portrait in Jazz [2008 Remaster]",
+      "played_at": "2026-11-16 01:41:12"
     },
     {
-      "title": "Ghosts Among the Obelisks",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 18:10:10"
+      "title": "Spring Is Here",
+      "artist": "Bill Evans Trio",
+      "album": "Portrait in Jazz [2008 Remaster]",
+      "played_at": "2026-11-16 01:36:03"
     },
     {
-      "title": "The Orca Cliffs",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 18:01:30"
-    },
-    {
-      "title": "Foretold in Reflections",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 17:53:37"
-    },
-    {
-      "title": "Knights of Tiamat",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 17:43:43"
-    },
-    {
-      "title": "Estuary",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 17:35:06"
-    },
-    {
-      "title": "Estuary",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-14 17:21:07"
+      "title": "What Is This Thing Called Love?",
+      "artist": "Bill Evans Trio",
+      "album": "Portrait in Jazz [2008 Remaster]",
+      "played_at": "2026-11-16 01:31:26"
     }
   ]
 }
