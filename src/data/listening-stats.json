@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T14:00+01:00",
+  "generated_at": "2026-11-19T10:00+01:00",
   "totals": {
-    "plays": 3806,
-    "hours": 330.8,
-    "artists": 275
+    "plays": 3843,
+    "hours": 333.6,
+    "artists": 276
   },
   "top_tracks": [
     {
@@ -204,7 +204,11 @@
     },
     {
       "artist": "Chelsea Wolfe",
-      "plays": 73
+      "plays": 76
+    },
+    {
+      "artist": "Depeche Mode",
+      "plays": 71
     },
     {
       "artist": "The Beatles",
@@ -221,10 +225,6 @@
     {
       "artist": "Botanist",
       "plays": 52
-    },
-    {
-      "artist": "Depeche Mode",
-      "plays": 49
     },
     {
       "artist": "Son Lux",
@@ -413,189 +413,189 @@
     },
     {
       "month": "2026-11",
-      "plays": 391
+      "plays": 428
     }
   ],
   "recent": [
     {
-      "title": "Love Will Save You",
-      "artist": "Swans",
-      "album": "White Light From the Mouth of Infinity",
-      "played_at": "2026-11-16 18:48:39"
+      "title": "The Destructive Cycle",
+      "artist": "BlackQueen",
+      "album": "The Destructive Cycle",
+      "played_at": "2026-11-18 18:13:21"
     },
     {
-      "title": "Will We Survive",
-      "artist": "Swans",
-      "album": "White Light From the Mouth of Infinity",
-      "played_at": "2026-11-16 18:42:32"
+      "title": "World In My Eyes",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 18:12:28"
     },
     {
-      "title": "Song for Dead Time",
-      "artist": "Swans",
-      "album": "White Light From the Mouth of Infinity",
-      "played_at": "2026-11-16 18:35:41"
+      "title": "Clean",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 18:06:55"
     },
     {
-      "title": "You Know Nothing",
-      "artist": "Swans",
-      "album": "White Light From the Mouth of Infinity",
-      "played_at": "2026-11-16 18:30:16"
+      "title": "Blue Dress",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 18:01:17"
     },
     {
-      "title": "I Am the Sun",
-      "artist": "Swans",
-      "album": "Swans Are Dead",
-      "played_at": "2026-11-16 18:16:33"
+      "title": "Policy Of Truth",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 17:56:22"
     },
     {
-      "title": "But, What Ends When the Symbols Shatter?",
-      "artist": "Death In June",
-      "album": "But, What Ends When the Symbols Shatter?",
-      "played_at": "2026-11-16 17:23:32"
+      "title": "Enjoy The Silence",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 17:50:09"
     },
     {
-      "title": "Ku Ku Ku",
-      "artist": "Death In June",
-      "album": "But, What Ends When the Symbols Shatter?",
-      "played_at": "2026-11-16 17:16:33"
+      "title": "Waiting For The Night",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 17:44:01"
     },
     {
-      "title": "The Giddy Edge of Light",
-      "artist": "Death In June",
-      "album": "But, What Ends When the Symbols Shatter?",
-      "played_at": "2026-11-16 17:14:38"
+      "title": "Halo",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 17:39:31"
     },
     {
-      "title": "Little Black Angel",
-      "artist": "Death In June",
-      "album": "But, What Ends When the Symbols Shatter?",
-      "played_at": "2026-11-16 17:04:09"
+      "title": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 17:34:35"
     },
     {
-      "title": "Because of Him",
-      "artist": "Death In June",
-      "album": "But, What Ends When the Symbols Shatter?",
-      "played_at": "2026-11-16 16:59:49"
+      "title": "Sweetest Perfection",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 17:29:52"
     },
     {
-      "title": "The Mourner's Bench",
-      "artist": "Death In June",
-      "album": "But, What Ends When the Symbols Shatter?",
-      "played_at": "2026-11-16 16:56:01"
+      "title": "Sweetest Perfection",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 16:45:43"
     },
     {
-      "title": "He's Disabled",
-      "artist": "Death In June",
-      "album": "But, What Ends When the Symbols Shatter?",
-      "played_at": "2026-11-16 16:53:26"
+      "title": "World In My Eyes",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-18 16:41:17"
     },
     {
-      "title": "Death Is the Martyr of Beauty",
-      "artist": "Death In June",
-      "album": "But, What Ends When the Symbols Shatter?",
-      "played_at": "2026-11-16 16:49:15"
+      "title": "Policy Of Truth",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-17 15:54:57"
     },
     {
-      "title": "Cousins of the Antichrist",
-      "artist": "Chelsea Wolfe",
-      "album": "The Grime and the Glow",
-      "played_at": "2026-11-16 16:35:07"
+      "title": "Enjoy The Silence",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-17 15:48:44"
     },
     {
-      "title": "Advice & Vices",
-      "artist": "Chelsea Wolfe",
-      "album": "The Grime and the Glow",
-      "played_at": "2026-11-16 16:32:22"
+      "title": "Waiting For The Night",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-17 15:42:37"
     },
     {
-      "title": "Daughter of Darkness",
-      "artist": "Natural Snow Buildings",
-      "album": "Daughter of Darkness",
-      "played_at": "2026-11-16 16:15:15"
+      "title": "Halo",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-17 15:38:07"
     },
     {
-      "title": "Three Princes",
-      "artist": "Deafheaven",
-      "album": "At Work in the Fields of the Bomb",
-      "played_at": "2026-11-16 15:39:29"
+      "title": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-17 15:33:11"
     },
     {
-      "title": "Knights of Tiamat",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-16 15:16:02"
+      "title": "Sweetest Perfection",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-17 15:28:26"
     },
     {
-      "title": "Estuary",
-      "artist": "Wolves in the Throne Room",
-      "album": "Estuary",
-      "played_at": "2026-11-16 15:07:29"
+      "title": "World In My Eyes",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-17 15:24:00"
     },
     {
-      "title": "Peace in Death",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-11-16 14:53:46"
+      "title": "World In My Eyes",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "played_at": "2026-11-17 15:23:19"
     },
     {
-      "title": "Boiled Angel",
-      "artist": "Dragged Into Sunlight",
-      "album": "Hatred for Mankind",
-      "played_at": "2026-11-16 14:29:53"
+      "title": "Strangelove",
+      "artist": "Depeche Mode",
+      "album": "Music For The Masses",
+      "played_at": "2026-11-17 15:22:43"
     },
     {
-      "title": "Breach",
-      "artist": "Cult of Luna",
-      "album": "In the Shadow of Your Shadow",
-      "played_at": "2026-11-16 14:01:02"
+      "title": "The Things You Said",
+      "artist": "Depeche Mode",
+      "album": "Music For The Masses",
+      "played_at": "2026-11-17 15:18:40"
     },
     {
-      "title": "Landby",
-      "artist": "Cult of Luna",
-      "album": "In the Shadow of Your Shadow",
-      "played_at": "2026-11-16 13:48:46"
+      "title": "Never Let Me Down Again",
+      "artist": "Depeche Mode",
+      "album": "Music For The Masses",
+      "played_at": "2026-11-17 15:13:21"
     },
     {
-      "title": "Sadness Will Reign",
-      "artist": "Cult of Luna",
-      "album": "In the Shadow of Your Shadow",
-      "played_at": "2026-11-16 13:46:03"
+      "title": "Yr Body Is Nothing",
+      "artist": "Boy Harsher",
+      "album": "Yr Body Is Nothing",
+      "played_at": "2026-11-17 15:12:50"
     },
     {
-      "title": "In the Shadow of Your Shadow",
-      "artist": "Cult of Luna",
-      "album": "In the Shadow of Your Shadow",
-      "played_at": "2026-11-16 13:41:16"
+      "title": "A Realness",
+      "artist": "Boy Harsher",
+      "album": "Yr Body Is Nothing",
+      "played_at": "2026-11-17 15:08:27"
     },
     {
-      "title": "Hymnal",
-      "artist": "The Blood Mountain Black Metal Choir",
-      "album": "Songs From a Dying Empire",
-      "played_at": "2026-11-16 12:37:10"
+      "title": "Intro",
+      "artist": "Boy Harsher",
+      "album": "Yr Body Is Nothing",
+      "played_at": "2026-11-17 15:06:20"
     },
     {
-      "title": "Blue in Green (Take 3)",
-      "artist": "Bill Evans Trio",
-      "album": "Portrait in Jazz [2008 Remaster]",
-      "played_at": "2026-11-16 01:46:09"
+      "title": "Small Talk Stinks",
+      "artist": "Bauhaus",
+      "album": "In the Flat Field",
+      "played_at": "2026-11-17 15:05:57"
     },
     {
-      "title": "Someday My Prince Will Come",
-      "artist": "Bill Evans Trio",
-      "album": "Portrait in Jazz [2008 Remaster]",
-      "played_at": "2026-11-16 01:41:12"
+      "title": "Spy in the Cab",
+      "artist": "Bauhaus",
+      "album": "In the Flat Field",
+      "played_at": "2026-11-17 15:01:24"
     },
     {
-      "title": "Spring Is Here",
-      "artist": "Bill Evans Trio",
-      "album": "Portrait in Jazz [2008 Remaster]",
-      "played_at": "2026-11-16 01:36:03"
+      "title": "Dive",
+      "artist": "Bauhaus",
+      "album": "In the Flat Field",
+      "played_at": "2026-11-17 14:59:10"
     },
     {
-      "title": "What Is This Thing Called Love?",
-      "artist": "Bill Evans Trio",
-      "album": "Portrait in Jazz [2008 Remaster]",
-      "played_at": "2026-11-16 01:31:26"
+      "title": "God in an Alcove",
+      "artist": "Bauhaus",
+      "album": "In the Flat Field",
+      "played_at": "2026-11-17 14:55:02"
     }
   ]
 }
