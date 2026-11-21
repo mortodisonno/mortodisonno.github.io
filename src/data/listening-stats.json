@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T15:00+01:00",
+  "generated_at": "2026-11-21T11:00+01:00",
   "totals": {
-    "plays": 3853,
-    "hours": 334.3,
-    "artists": 276
+    "plays": 3882,
+    "hours": 336.4,
+    "artists": 279
   },
   "top_tracks": [
     {
@@ -159,12 +159,12 @@
   ],
   "top_artists": [
     {
-      "artist": "Verdena",
-      "plays": 170
+      "artist": "Swans",
+      "plays": 176
     },
     {
-      "artist": "Swans",
-      "plays": 169
+      "artist": "Verdena",
+      "plays": 170
     },
     {
       "artist": "Wolves in the Throne Room",
@@ -413,189 +413,189 @@
     },
     {
       "month": "2026-11",
-      "plays": 438
+      "plays": 467
     }
   ],
   "recent": [
+    {
+      "title": "This Hand",
+      "artist": "Six Organs of Admittance",
+      "album": "Dark Noontide",
+      "played_at": "2026-11-21 11:00:40"
+    },
+    {
+      "title": "Dark Noontide",
+      "artist": "Six Organs of Admittance",
+      "album": "Dark Noontide",
+      "played_at": "2026-11-21 10:56:07"
+    },
+    {
+      "title": "On Returning Home",
+      "artist": "Six Organs of Admittance",
+      "album": "Dark Noontide",
+      "played_at": "2026-11-21 10:50:21"
+    },
+    {
+      "title": "Regeneration",
+      "artist": "Six Organs of Admittance",
+      "album": "Dark Noontide",
+      "played_at": "2026-11-21 10:44:49"
+    },
+    {
+      "title": "Regeneration",
+      "artist": "Six Organs of Admittance",
+      "album": "Dark Noontide",
+      "played_at": "2026-11-21 10:39:32"
+    },
+    {
+      "title": "Spirits Abandoned",
+      "artist": "Six Organs of Admittance",
+      "album": "Dark Noontide",
+      "played_at": "2026-11-21 10:33:10"
+    },
+    {
+      "title": "Drink To Me Only With Thine Eyes",
+      "artist": "The World of Skin",
+      "album": "Ten Songs for Another World",
+      "played_at": "2026-11-21 00:02:09"
+    },
+    {
+      "title": "Please Remember Me",
+      "artist": "The World of Skin",
+      "album": "Ten Songs for Another World",
+      "played_at": "2026-11-20 23:53:24"
+    },
+    {
+      "title": "She Lives!",
+      "artist": "Swans",
+      "album": "The Great Annihilator",
+      "played_at": "2026-11-20 23:51:10"
+    },
+    {
+      "title": "I Am The Sun",
+      "artist": "Swans",
+      "album": "The Great Annihilator",
+      "played_at": "2026-11-20 23:47:46"
+    },
+    {
+      "title": "In",
+      "artist": "Swans",
+      "album": "The Great Annihilator",
+      "played_at": "2026-11-20 23:45:18"
+    },
+    {
+      "title": "Weakling",
+      "artist": "Swans",
+      "album": "Filth",
+      "played_at": "2026-11-20 23:40:03"
+    },
+    {
+      "title": "Stay Home",
+      "artist": "Swans",
+      "album": "Filth",
+      "played_at": "2026-11-20 23:39:02"
+    },
+    {
+      "title": "Love Of Life (Long)",
+      "artist": "Swans",
+      "album": "WLFTMOI/LOL bonus disc",
+      "played_at": "2026-11-20 23:33:56"
+    },
+    {
+      "title": "Amnesia (Long)",
+      "artist": "Swans",
+      "album": "WLFTMOI/LOL bonus disc",
+      "played_at": "2026-11-20 23:33:21"
+    },
+    {
+      "title": "A Beginning",
+      "artist": "Current 93",
+      "album": "Thunder Perfect Mind",
+      "played_at": "2026-11-20 23:32:36"
+    },
+    {
+      "title": "In the Rain",
+      "artist": "Sol Invictus",
+      "album": "In the Rain",
+      "played_at": "2026-11-20 23:28:47"
+    },
+    {
+      "title": "Down the Years",
+      "artist": "Sol Invictus",
+      "album": "In the Rain",
+      "played_at": "2026-11-20 23:24:24"
+    },
+    {
+      "title": "Believe Me",
+      "artist": "Sol Invictus",
+      "album": "In the Rain",
+      "played_at": "2026-11-20 23:20:32"
+    },
+    {
+      "title": "Stay",
+      "artist": "Sol Invictus",
+      "album": "In the Rain",
+      "played_at": "2026-11-20 23:15:45"
+    },
+    {
+      "title": "Europa in the Rain I",
+      "artist": "Sol Invictus",
+      "album": "In the Rain",
+      "played_at": "2026-11-20 23:14:38"
+    },
+    {
+      "title": "Ostia (The Death of Pasolini)",
+      "artist": "Coil",
+      "album": "Horse Rotorvator",
+      "played_at": "2026-11-20 18:21:12"
+    },
+    {
+      "title": "Babylero",
+      "artist": "Coil",
+      "album": "Horse Rotorvator",
+      "played_at": "2026-11-20 18:20:15"
+    },
+    {
+      "title": "Slur",
+      "artist": "Coil",
+      "album": "Horse Rotorvator",
+      "played_at": "2026-11-20 18:16:50"
+    },
+    {
+      "title": "The Anal Staircase",
+      "artist": "Coil",
+      "album": "Horse Rotorvator",
+      "played_at": "2026-11-20 18:12:47"
+    },
+    {
+      "title": "Ostia (The Death of Pasolini)",
+      "artist": "Coil",
+      "album": "Horse Rotorvator",
+      "played_at": "2026-11-20 17:59:57"
+    },
+    {
+      "title": "Babylero",
+      "artist": "Coil",
+      "album": "Horse Rotorvator",
+      "played_at": "2026-11-20 17:59:01"
+    },
+    {
+      "title": "Slur",
+      "artist": "Coil",
+      "album": "Horse Rotorvator",
+      "played_at": "2026-11-20 17:55:35"
+    },
+    {
+      "title": "The Anal Staircase",
+      "artist": "Coil",
+      "album": "Horse Rotorvator",
+      "played_at": "2026-11-20 17:51:33"
+    },
     {
       "title": "Leucadendron Argenteum",
       "artist": "Botanist",
       "album": "VI: Flora",
       "played_at": "2026-11-20 11:24:55"
-    },
-    {
-      "title": "Dianthus",
-      "artist": "Botanist",
-      "album": "VI: Flora",
-      "played_at": "2026-11-20 11:22:32"
-    },
-    {
-      "title": "Rhizophora",
-      "artist": "Botanist",
-      "album": "VI: Flora",
-      "played_at": "2026-11-20 11:18:43"
-    },
-    {
-      "title": "Gleditsia",
-      "artist": "Botanist",
-      "album": "VI: Flora",
-      "played_at": "2026-11-20 11:16:36"
-    },
-    {
-      "title": "Cinnamomum Parthenoxylon",
-      "artist": "Botanist",
-      "album": "VI: Flora",
-      "played_at": "2026-11-20 11:08:28"
-    },
-    {
-      "title": "Cinnamomum Parthenoxylon",
-      "artist": "Botanist",
-      "album": "VI: Flora",
-      "played_at": "2026-11-19 23:30:30"
-    },
-    {
-      "title": "Callistemon",
-      "artist": "Botanist",
-      "album": "VI: Flora",
-      "played_at": "2026-11-19 23:26:13"
-    },
-    {
-      "title": "Stargazer",
-      "artist": "Botanist",
-      "album": "VI: Flora",
-      "played_at": "2026-11-19 23:22:12"
-    },
-    {
-      "title": "Data",
-      "artist": "BRUIT ≤",
-      "album": "The Age Of Ephemerality",
-      "played_at": "2026-11-19 23:15:34"
-    },
-    {
-      "title": "Ephemeral",
-      "artist": "BRUIT ≤",
-      "album": "The Age Of Ephemerality",
-      "played_at": "2026-11-19 23:12:20"
-    },
-    {
-      "title": "The Destructive Cycle",
-      "artist": "BlackQueen",
-      "album": "The Destructive Cycle",
-      "played_at": "2026-11-18 18:13:21"
-    },
-    {
-      "title": "World In My Eyes",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 18:12:28"
-    },
-    {
-      "title": "Clean",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 18:06:55"
-    },
-    {
-      "title": "Blue Dress",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 18:01:17"
-    },
-    {
-      "title": "Policy Of Truth",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 17:56:22"
-    },
-    {
-      "title": "Enjoy The Silence",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 17:50:09"
-    },
-    {
-      "title": "Waiting For The Night",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 17:44:01"
-    },
-    {
-      "title": "Halo",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 17:39:31"
-    },
-    {
-      "title": "Personal Jesus",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 17:34:35"
-    },
-    {
-      "title": "Sweetest Perfection",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 17:29:52"
-    },
-    {
-      "title": "Sweetest Perfection",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 16:45:43"
-    },
-    {
-      "title": "World In My Eyes",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-18 16:41:17"
-    },
-    {
-      "title": "Policy Of Truth",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-17 15:54:57"
-    },
-    {
-      "title": "Enjoy The Silence",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-17 15:48:44"
-    },
-    {
-      "title": "Waiting For The Night",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-17 15:42:37"
-    },
-    {
-      "title": "Halo",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-17 15:38:07"
-    },
-    {
-      "title": "Personal Jesus",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-17 15:33:11"
-    },
-    {
-      "title": "Sweetest Perfection",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-17 15:28:26"
-    },
-    {
-      "title": "World In My Eyes",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-17 15:24:00"
-    },
-    {
-      "title": "World In My Eyes",
-      "artist": "Depeche Mode",
-      "album": "Violator",
-      "played_at": "2026-11-17 15:23:19"
     }
   ]
 }
